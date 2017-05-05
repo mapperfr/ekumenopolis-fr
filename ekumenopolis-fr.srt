@@ -29,7 +29,7 @@ Un film d'Imre AZEM
 
 7
 00:00:48,167 --> 00:00:51,850
-ECUMENOPOLIS
+EKUMENOPOLIS
 La ville sans limites
 
 8
@@ -64,16 +64,16 @@ prêtes à les assumer ?
 
 14
 00:03:47,244 --> 00:03:49,564
-<i>LE CENTRE D'INFORMATION
-D'EKUMENOPOLIS</i>
+LE CENTRE D'INFORMATION
+D'EKUMENOPOLIS
 
 15
 00:03:49,575 --> 00:03:51,495
-<i>PRÉSENTE</i>
+PRÉSENTE
 
 16
 00:03:52,402 --> 00:03:56,286
-<i>UNE HISTOIRE D'ISTANBUL</i>
+UNE HISTOIRE D'ISTANBUL
 
 17
 00:03:59,002 --> 00:04:02,005
@@ -796,7 +796,7 @@ Je vais la reconstruire tout de suite !
 
 170
 00:18:23,534 --> 00:18:26,147
-<i>DICTIONNAIRE DE LANGUES</i>
+DICTIONNAIRE DE LANGUES
 
 171
 00:18:52,805 --> 00:18:54,112
@@ -1146,12 +1146,12 @@ ils devraient aussi être relogés ici.
 
 248
 00:25:40,200 --> 00:25:42,600
-<i>ZONE DE RENOUVELLEMENT URBAIN</i>
+ZONE DE RENOUVELLEMENT URBAIN
 
 249
 00:25:42,720 --> 00:25:50,600
-<i>ALLONS NOUS ENTRER DANS L’UE
-EN EXPLOITANT LES PAUVRES ?</i>
+ALLONS NOUS ENTRER DANS L’UE
+EN EXPLOITANT LES PAUVRES ?
 
 250
 00:26:00,400 --> 00:26:05,600
@@ -1631,8 +1631,8 @@ et la Mer Noire.
 
 358
 00:35:01,680 --> 00:35:06,240
-<i>LE TROISIÈME PONT EXEMPTÉ
-D’ÉTUDE D’IMPACT</i>
+LE TROISIÈME PONT EXEMPTÉ
+D’ÉTUDE D’IMPACT
 
 359
 00:35:07,040 --> 00:35:11,280
@@ -1810,8 +1810,8 @@ achats spéculatifs dans le secteur.
 
 396
 00:38:01,320 --> 00:38:07,360
-<i>LE CENTRE D’ISTANBUL SE DÉPLACE
-VERS LA MER NOIRE</i>
+LE CENTRE D’ISTANBUL SE DÉPLACE
+VERS LA MER NOIRE
 
 397
 00:38:07,640 --> 00:38:11,320
@@ -1975,7 +1975,7 @@ toujours en construction.
 
 432
 00:42:04,600 --> 00:42:06,240
-<i>STOP !</i>
+STOP !
 
 433
 00:42:10,120 --> 00:42:12,720
@@ -2220,13 +2220,13 @@ une tente de solidarité pour Ayazma.
 
 485
 00:47:54,120 --> 00:47:58,480
-<i>Le 20 novembre 2008, 7 jours après
-la démolition de leurs maisons,</i>
+Le 20 novembre 2008, 7 jours après
+la démolition de leurs maisons,
 
 486
 00:47:58,680 --> 00:48:03,040
-<i>les familles d’Ayazma furent invitées
-dans l’émission d’Esra Ceyhan.</i>
+les familles d’Ayazma furent invitées
+dans l’émission d’Esra Ceyhan.
 
 487
 00:48:03,880 --> 00:48:07,280
@@ -2345,7 +2345,7 @@ décembre 2009
 
 512
 00:49:36,280 --> 00:49:37,720
-<i>MAIRIE</i>
+MAIRIE
 
 513
 00:49:38,000 --> 00:49:41,800
@@ -2477,8 +2477,8 @@ pendant les 3 dernières années.
 
 542
 00:52:33,160 --> 00:52:35,640
-<i>CHANTIER TOKI DE CONSTRUCTION DE
-LOGEMENTS SOCIAUX, KAYABAŞI</i>
+CHANTIER TOKI DE CONSTRUCTION DE
+LOGEMENTS SOCIAUX, KAYABAŞI
 
 543
 00:52:36,000 --> 00:52:39,360
@@ -2954,7 +2954,7 @@ se plaignent.
 
 649
 01:00:27,840 --> 01:00:29,640
-<i>À VENDRE</i>
+À VENDRE
 
 650
 01:00:33,200 --> 01:00:38,000
@@ -3313,7 +3313,7 @@ Les versements sont de combien ?
 
 728
 01:07:11,200 --> 01:07:13,000
-<i>WELCOME TO GAZA !</i>
+WELCOME TO GAZA !
 
 729
 01:07:13,280 --> 01:07:15,280
@@ -3759,7 +3759,7 @@ C’est comme si ça n’avait jamais été démoli.
 
 825
 01:15:49,600 --> 01:15:52,680
-<i>AĞAOĞLU, ARCHITECTES DE LA VIE</i>
+AĞAOĞLU, ARCHITECTES DE LA VIE
 
 826
 01:16:04,120 --> 01:16:08,400
@@ -3772,8 +3772,8 @@ J’y pense tout le temps.
 
 828
 01:16:12,960 --> 01:16:17,480
-<i>Aujourd’hui, à istanbul, plus de 50 quartiers
-sont menacés de destruction.</i>
+Aujourd’hui, à istanbul, plus de 50 quartiers
+sont menacés de destruction.
 
 829
 01:16:17,640 --> 01:16:19,320
@@ -3883,8 +3883,8 @@ Et ils ont été construits pour la
 
 851
 01:19:30,920 --> 01:19:33,680
-<i>TRANSFORMATION DE TOZKOPARAN :
-URBANISER OU PROFITER ?</i>
+TRANSFORMATION DE TOZKOPARAN :
+URBANISER OU PROFITER ?
 
 852
 01:19:38,120 --> 01:19:41,400
@@ -4129,49 +4129,49 @@ Istanbul est à nous !
 
 904
 01:24:55,680 --> 01:24:59,480
-<i>ON NE VOUS LAISSERA PAS LE DÉMOLIR !</i>
+ON NE VOUS LAISSERA PAS LE DÉMOLIR !
 
 905
 01:24:59,760 --> 01:25:01,720
-<i>ISTANBUL, RÉSISTE !</i>
+ISTANBUL, RÉSISTE !
 
 906
 01:25:03,680 --> 01:25:08,200
-<i>UN PEUPLE UNI NE SERA JAMAIS VAINCU !</i>
+UN PEUPLE UNI NE SERA JAMAIS VAINCU !
 
 907
 01:25:10,920 --> 01:25:15,000
-<i>LE CAPITAL DEHORS ! LA GARE
-D’HAYDARPAŞA EST À NOUS !</i>
+LE CAPITAL DEHORS ! LA GARE
+D’HAYDARPAŞA EST À NOUS !
 
 908
 01:25:28,520 --> 01:25:33,200
-<i>LAISSEZ MA FORÊT, MON EAU
-ET MON QUARTIER TRANQUILLES !</i>
+LAISSEZ MA FORÊT, MON EAU
+ET MON QUARTIER TRANQUILLES !
 
 909
 01:25:53,600 --> 01:25:55,520
-<i>NON AU PONT !</i>
+NON AU PONT !
 
 910
 01:25:56,240 --> 01:25:58,120
-<i>POUR UNE VIE HUMAINE !</i>
+POUR UNE VIE HUMAINE !
 
 911
 01:26:04,640 --> 01:26:08,840
-<i>UNI-E-S CONTRE LES DÉMOLITIONS !</i>
+UNI-E-S CONTRE LES DÉMOLITIONS !
 
 912
 01:26:09,240 --> 01:26:12,800
-<i>PAS DE SOLUTION TOUT SEUL !</i>
+PAS DE SOLUTION TOUT SEUL !
 
 913
 01:26:13,400 --> 01:26:17,120
-<i>TOUS ENSEMBLE OU PERSONNE !</i>
+TOUS ENSEMBLE OU PERSONNE !
 
 914
 01:26:17,960 --> 01:26:19,960
-<i>ISTANBUL RÉSISTE !</i>
+ISTANBUL RÉSISTE !
 
 915
 01:26:31,280 --> 01:26:34,320
@@ -4268,6 +4268,6 @@ je citerai Doğan Kuban :
 936
 01:30:14,953 --> 01:30:20,244
 Traduction française et synchronisation :
-jeremy@mapper.fr
+Jérémy Garniaux - jeremy@mapper.fr
 
 
