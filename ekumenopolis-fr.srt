@@ -1,4272 +1,4272 @@
 ﻿1
-00:00:22,941 --> 00:00:25,541
+00:00:14,341 --> 00:00:16,941
 AVERTISSEMENT : Bien que des logos
 commerciaux apparaissent dans ce film
 
 2
-00:00:25,676 --> 00:00:28,525
+00:00:17,076 --> 00:00:19,925
 leur présence dans certains plans
 illustrant le discours
 
 3
-00:00:28,781 --> 00:00:31,312
+00:00:20,181 --> 00:00:22,712
 ne reflète aucune volonté
 de promotion commerciale.
 
 4
-00:00:34,147 --> 00:00:36,488
+00:00:25,547 --> 00:00:27,888
 KIBRIT FILM et
 YORKSTREET PRODUCTIONS INTERNATIONAL
 présentent
 
 5
-00:00:39,437 --> 00:00:41,656
+00:00:30,837 --> 00:00:33,056
 Une production GÜNAY/ANSPICHLER
 
 6
-00:00:43,632 --> 00:00:46,272
+00:00:35,032 --> 00:00:37,672
 Un film d'Imre AZEM
 
 7
-00:00:48,167 --> 00:00:51,850
+00:00:39,567 --> 00:00:43,250
 EKUMENOPOLIS
 La ville sans limites
 
 8
-00:02:03,003 --> 00:02:05,145
+00:01:54,403 --> 00:01:56,545
 Pour la première fois dans
 l’histoire de l’Humanité,
 
 9
-00:02:05,177 --> 00:02:07,445
+00:01:56,577 --> 00:01:58,845
 la population urbaine dépasse
 la population rurale.
 
 10
-00:02:11,684 --> 00:02:17,909
+00:02:03,084 --> 00:02:09,309
 Au 19e siècle, dans les villes
 des pays capitalistes « avancés »,
 
 11
-00:02:18,169 --> 00:02:24,474
+00:02:09,569 --> 00:02:15,874
 Un exode rural massif a eu lieu et a
 profondément transformé les villes.
 
 12
-00:02:28,914 --> 00:02:31,618
+00:02:20,314 --> 00:02:23,018
 Notre siècle est sur le point de connaître
 des changements similaires.
 
 13
-00:02:34,164 --> 00:02:37,222
+00:02:25,564 --> 00:02:28,622
 Mais nos villes sont-elles vraiment
 prêtes à les assumer ?
 
 14
-00:03:47,244 --> 00:03:49,564
+00:03:38,644 --> 00:03:40,964
 LE CENTRE D'INFORMATION
 D'EKUMENOPOLIS
 
 15
-00:03:49,575 --> 00:03:51,495
+00:03:40,975 --> 00:03:42,895
 PRÉSENTE
 
 16
-00:03:52,402 --> 00:03:56,286
+00:03:43,802 --> 00:03:47,686
 UNE HISTOIRE D'ISTANBUL
 
 17
-00:03:59,002 --> 00:04:02,005
+00:03:50,402 --> 00:03:53,405
 Vers la fin de l’Empire Ottoman,
 au tournant du siècle,
 
 18
-00:04:02,197 --> 00:04:05,276
+00:03:53,597 --> 00:03:56,676
 Istanbul était une capitale
 quasi-coloniale.
 
 19
-00:04:05,567 --> 00:04:09,367
+00:03:56,967 --> 00:04:00,767
 Les services urbains étaient
 possédés par des capitaux privés.
 
 20
-00:04:09,665 --> 00:04:13,162
+00:04:01,065 --> 00:04:04,562
 Le coeur de la ville battait à Beyoğlu.
 
 21
-00:04:15,050 --> 00:04:18,732
+00:04:06,450 --> 00:04:10,132
 Avec le développement du train,
 Istanbul se mit à croître
 
 22
-00:04:18,903 --> 00:04:20,674
+00:04:10,303 --> 00:04:12,074
 progressivement vers les faubourgs.
 
 23
-00:04:20,964 --> 00:04:23,878
+00:04:12,364 --> 00:04:15,278
 Le Bosphore devint l’endroit
 de prédilection de la richesse urbaine.
 
 24
-00:04:24,775 --> 00:04:31,133
+00:04:16,175 --> 00:04:22,533
 La déclaration de la République en 1923
 amena les capitaux à fuir la ville.
 
 25
-00:04:31,172 --> 00:04:34,650
+00:04:22,572 --> 00:04:26,050
 En 1929, la crise économique frappa.
 
 26
-00:04:35,417 --> 00:04:37,389
+00:04:26,817 --> 00:04:28,789
 La faible présence des capitaux privés
 
 27
-00:04:37,447 --> 00:04:39,980
+00:04:28,847 --> 00:04:31,380
 mit l’industrie dans les mains de l’État.
 
 28
-00:04:45,892 --> 00:04:48,153
+00:04:37,292 --> 00:04:39,553
 Au fur et à mesure de la construction
 d’usines publiques en Anatolie,
 
 29
-00:04:48,260 --> 00:04:51,017
+00:04:39,660 --> 00:04:42,417
 le réseau ferré se renforça.
 
 30
-00:04:51,736 --> 00:04:55,732
+00:04:43,136 --> 00:04:47,132
 Malgré des ressources limitées,
 le transport public s'améliora à Istanbul.
 
 31
-00:04:56,328 --> 00:05:00,184
+00:04:47,728 --> 00:04:51,584
 Jusqu’à ce que la ville fit appel à un urbaniste français
 pour définir un nouveau plan urbain.
 
 32
-00:05:03,017 --> 00:05:07,705
+00:04:54,417 --> 00:04:59,105
 Henry Prost mit au point une ville aux
 grandes avenues, faite pour la voiture,
 
 33
-00:05:07,907 --> 00:05:10,805
+00:04:59,307 --> 00:05:02,205
 et les industries se resserrèrent
 autour de la Corne d’Or.
 
 34
-00:05:11,934 --> 00:05:15,794
+00:05:03,334 --> 00:05:07,194
 Les États-Unis, vainqueurs de
 la Seconde Guerre Mondiale,
 
 35
-00:05:15,944 --> 00:05:20,013
+00:05:07,344 --> 00:05:11,413
 apportèrent leur soutien au projet avec
 des fonds du Plan Marshall en 1949.
 
 36
-00:05:22,596 --> 00:05:26,039
+00:05:13,996 --> 00:05:17,439
 Sous le gouvernement du
 premier ministre Menderes,
 
 37
-00:05:26,245 --> 00:05:29,282
+00:05:17,645 --> 00:05:20,682
 les voies de tramways furent
 remplacées par de l’asphalte.
 
 38
-00:05:34,570 --> 00:05:37,888
+00:05:25,970 --> 00:05:29,288
 L’application de la réforme agraire
 par le Parti Démocratique
 
 39
-00:05:37,981 --> 00:05:41,147
+00:05:29,381 --> 00:05:32,547
 et la mécanisation agricole poussèrent
 les agriculteurs désormais sans emploi
 
 40
-00:05:41,174 --> 00:05:44,214
+00:05:32,574 --> 00:05:35,614
 à se transformer en une
 main-d’oeuvre bon marché
 
 41
-00:05:44,267 --> 00:05:46,631
+00:05:35,667 --> 00:05:38,031
 pour les usines privées
 qui fleurissaient à Istanbul.
 
 42
-00:05:46,631 --> 00:05:49,111
+00:05:38,031 --> 00:05:40,511
 Un pacte silencieux entre classes apparut :
 
 43
-00:05:49,158 --> 00:05:52,233
+00:05:40,558 --> 00:05:43,633
 si ni les patrons ni l’État ne fourniraient
 de logement aux travailleurs,
 
 44
-00:05:52,306 --> 00:05:55,180
+00:05:43,706 --> 00:05:46,580
 ces derniers étaient autorisés à
 construire des habitations illégales,
 
 45
-00:05:55,230 --> 00:05:57,307
+00:05:46,630 --> 00:05:48,707
 les « gecekondus ».
 
 46
-00:05:57,655 --> 00:06:00,190
+00:05:49,055 --> 00:05:51,590
 Avec l’ouverture du premier pont
 sur le Bosphore en 1973,
 
 47
-00:06:00,392 --> 00:06:05,038
+00:05:51,792 --> 00:05:56,438
 les quartiers de gecekondus
 fleurirent autour des usines
 
 48
-00:06:05,179 --> 00:06:08,268
+00:05:56,579 --> 00:05:59,668
 et le long de l’autouroute E-5.
 
 49
-00:06:08,560 --> 00:06:10,854
+00:05:59,960 --> 00:06:02,254
 Au fur et à mesure de l’exode de la
 classe moyenne vers la banlieue,
 
 50
-00:06:11,015 --> 00:06:15,451
+00:06:02,415 --> 00:06:06,851
 le trafic automobile se multiplia
 par 6 en 15 ans.
 
 51
-00:06:15,529 --> 00:06:19,872
+00:06:06,929 --> 00:06:11,272
 Dans le même temps, le centre d’affaire
 se déplaça vers le nord.
 
 52
-00:06:22,957 --> 00:06:26,383
+00:06:14,357 --> 00:06:17,783
 Une seconde crise économique globale
 frappa dans les années 1970.
 
 53
-00:06:27,074 --> 00:06:30,749
+00:06:18,474 --> 00:06:22,149
 Turgut Özal, qui allait devenir
 premier ministre et président,
 
 54
-00:06:31,933 --> 00:06:35,355
+00:06:23,333 --> 00:06:26,755
 ramena en Turquie le modèle économique
 « latino-américain ».
 
 55
-00:06:38,884 --> 00:06:41,219
+00:06:30,284 --> 00:06:32,619
 Le coup d’État militaire de 1980
 mit ce modèle en place,
 
 56
-00:06:41,401 --> 00:06:44,354
+00:06:32,801 --> 00:06:35,754
 qui allait vite être porter le nom
 de « néolibéralisme ».
 
 57
-00:06:45,674 --> 00:06:48,174
+00:06:37,074 --> 00:06:39,574
 Au fur et à mesure de la privatisation
 des investissements publics
 
 58
-00:06:48,220 --> 00:06:49,328
+00:06:39,620 --> 00:06:40,728
 de la République,
 
 59
-00:06:49,609 --> 00:06:51,484
+00:06:41,009 --> 00:06:42,884
 les budgets municipaux gonflèrent.
 
 60
-00:06:56,074 --> 00:06:57,990
+00:06:47,474 --> 00:06:49,390
 Les travailleurs s’appauvrirent.
 
 61
-00:06:58,985 --> 00:07:01,202
+00:06:50,385 --> 00:06:52,602
 Özal les poussa à se rapprocher
 de la classe moyenne
 
 62
-00:07:01,064 --> 00:07:05,035
+00:06:52,464 --> 00:06:56,435
 en légalisant les quartiers
 de gecekondus,
 
 63
-00:07:05,549 --> 00:07:07,666
+00:06:56,949 --> 00:06:59,066
 poussant du même coup les migrants
 à devenir locataires
 
 64
-00:07:07,983 --> 00:07:11,212
+00:06:59,383 --> 00:07:02,612
 de cette nouvelle classe
 moyenne de travailleurs.
 
 65
-00:07:10,953 --> 00:07:14,181
+00:07:02,353 --> 00:07:05,581
 Le plus grand cadeau de cette ère fut
 le second pont sur le Bosphore,
 
 66
-00:07:14,331 --> 00:07:15,940
+00:07:05,731 --> 00:07:07,340
 ouvert en 1988.
 
 67
-00:07:17,171 --> 00:07:19,612
+00:07:08,571 --> 00:07:11,012
 Cette fois-ci, ce ne furent pas que les
 gecekondus qui se multiplièrent :
 
 68
-00:07:20,290 --> 00:07:22,717
+00:07:11,690 --> 00:07:14,117
 des centres commerciaux
 et des résidences fermées
 
 69
-00:07:22,745 --> 00:07:25,970
+00:07:14,145 --> 00:07:17,370
 surgirent en masse dans les
 zones forestières du nord.
 
 70
-00:07:29,232 --> 00:07:32,551
+00:07:20,632 --> 00:07:23,951
 La voiture était désormais profondément
 inscrite dans la culture stambouliote.
 
 71
-00:07:33,016 --> 00:07:35,709
+00:07:24,416 --> 00:07:27,109
 Le centre d’affaire se déplaça
 un peu plus au nord.
 
 72
-00:07:39,476 --> 00:07:44,116
+00:07:30,876 --> 00:07:35,516
 Dans les années 1990, le monde cédait au
 chant des sirènes de la « ville globale ».
 
 73
-00:07:44,662 --> 00:07:46,574
+00:07:36,062 --> 00:07:37,974
 Le néolibéralisme portait ses fruits.
 
 74
-00:07:47,201 --> 00:07:50,201
+00:07:38,601 --> 00:07:41,601
 Le capital accumulé avec le creusement
 des inégalités de revenus
 
 75
-00:07:50,354 --> 00:07:52,178
+00:07:41,754 --> 00:07:43,578
 fut investi dans l’immobilier.
 
 76
-00:07:52,387 --> 00:07:54,331
+00:07:43,787 --> 00:07:45,731
 De nouvelles bulles gonflèrent.
 
 77
-00:07:54,813 --> 00:07:57,329
+00:07:46,213 --> 00:07:48,729
 Les industries restantes furent
 déplacées hors de la ville
 
 78
-00:07:57,428 --> 00:07:58,840
+00:07:48,828 --> 00:07:50,240
 pour exploiter une main
 d’oeuvre bon marché,
 
 79
-00:07:58,896 --> 00:08:01,192
+00:07:50,296 --> 00:07:52,592
 et la ville se transforma en un
 paradis de la consommation
 
 80
-00:08:01,157 --> 00:08:03,481
+00:07:52,557 --> 00:07:54,881
 habité par des travailleurs
 du secteur tertiaire.
 
 81
-00:08:04,027 --> 00:08:07,654
+00:07:55,427 --> 00:07:59,054
 Dans les années 2000, Istanbul fut
 officiellement mise en vente.
 
 82
-00:08:08,028 --> 00:08:11,551
+00:07:59,428 --> 00:08:02,951
 TOKI, l’administration turque du logement,
 et les municipalités d’Istanbul
 
 83
-00:08:11,793 --> 00:08:16,022
+00:08:03,193 --> 00:08:07,422
 se servirent d’un arsenal de lois
 exceptionnelles pour vendre
 
 84
-00:08:16,130 --> 00:08:19,279
+00:08:07,530 --> 00:08:10,679
 patrimoine industriel, écoles publiques
 et hôpitaux aux capitaux privés,
 
 85
-00:08:19,647 --> 00:08:21,461
+00:08:11,047 --> 00:08:12,861
 nationaux ou internationaux.
 
 86
-00:08:23,680 --> 00:08:27,918
+00:08:15,080 --> 00:08:19,318
 Les travailleurs, poussés vers des îlots
 de pauvreté loin en périphérie,
 
 87
-00:08:28,447 --> 00:08:32,865
+00:08:19,847 --> 00:08:24,265
 allaient devenir la main d’oeuvre de
 service de la nouvelle ville globale.
 
 88
-00:08:36,388 --> 00:08:39,610
+00:08:27,788 --> 00:08:31,010
 Cette vision vorace basée sur
 la spéculation immobilière,
 
 89
-00:08:42,844 --> 00:08:42,693
+00:08:34,244 --> 00:08:34,093
 la frénésie des centres commerciaux
 et la construction de barres de bétons
 
 90
-00:08:42,963 --> 00:08:44,015
+00:08:34,363 --> 00:08:35,415
 toutes identiques,
 
 91
-00:08:44,328 --> 00:08:47,148
+00:08:35,728 --> 00:08:38,548
 non seulement rend Istanbul inaccessible
 à ses propres habitants
 
 92
-00:08:47,470 --> 00:08:50,900
+00:08:38,870 --> 00:08:42,300
 sous le prétexte d’un centre touristique,
 financier et culturel,
 
 93
-00:08:51,227 --> 00:08:55,148
+00:08:42,627 --> 00:08:46,548
 mais requiert en plus le pillage
 des forêts du nord de la ville.
 
 94
-00:08:59,789 --> 00:09:03,415
+00:08:51,189 --> 00:08:54,815
 La construction d’un 3e pont et d’autres
 à venir, pour satisfaire cette invasion,
 
 95
-00:09:03,927 --> 00:09:06,851
+00:08:55,327 --> 00:08:58,251
 fera d’Istanbul un « écumenopole »
 de béton,
 
 96
-00:09:07,313 --> 00:09:11,947
+00:08:58,713 --> 00:09:03,347
 démuni de réserves d’eau,
 de forêts et d’espace public...
 
 97
-00:09:13,679 --> 00:09:20,709
+00:09:05,079 --> 00:09:12,109
 À la fin, cette étrange ville sans limites
 pourrait bien tous nous avaler.
 
 98
-00:09:35,022 --> 00:09:38,445
+00:09:26,422 --> 00:09:29,845
 CHAPITRE 1 :
 LA VILLE GLOBALE
 
 99
-00:11:04,670 --> 00:11:07,491
+00:10:56,070 --> 00:10:58,891
 Pour être une ville « globale » dans
 le monde globalisé d’aujourd’hui,
 
 100
-00:11:08,146 --> 00:11:11,566
+00:10:59,546 --> 00:11:02,966
 il est au moins aussi important d’être un
 centre culturel, artistique et commercial
 
 101
-00:11:11,910 --> 00:11:15,132
+00:11:03,310 --> 00:11:06,532
 qu’il est important d’être un centre financier.
 
 102
-00:11:15,418 --> 00:11:20,758
+00:11:06,818 --> 00:11:12,158
 Néanmoins, être un centre financier
 n’est pas suffisant.
 
 103
-00:11:21,425 --> 00:11:22,894
+00:11:12,825 --> 00:11:14,294
 Haluk Sur - Institut turc de l'urbanisme
 Fondateur de GYODER,
 
 104
-00:11:22,941 --> 00:11:24,763
+00:11:14,341 --> 00:11:16,163
 association des investisseurs
 immobiliers de Turquie
 
 105
-00:11:24,899 --> 00:11:27,522
+00:11:16,299 --> 00:11:18,922
 Dans ce sens, pour être une ville mondiale,
 
 106
-00:11:28,051 --> 00:11:32,989
+00:11:19,451 --> 00:11:24,389
 différents éléments doivent
 co-exister harmonieusement.
 
 107
-00:11:33,470 --> 00:11:36,390
+00:11:24,870 --> 00:11:27,790
 Une ville globale est une plate-forme
 qui permet aux gens
 
 108
-00:11:36,538 --> 00:11:38,149
+00:11:27,938 --> 00:11:29,549
 de travailler ensemble pour le futur.
 
 109
-00:11:37,906 --> 00:11:42,359
+00:11:29,306 --> 00:11:33,759
 Dans ce sens, Istanbul est
 vraiment globale selon moi.
 
 110
-00:11:44,581 --> 00:11:47,000
+00:11:35,981 --> 00:11:38,400
 Avec les nouveaux centres de conventions,
 
 111
-00:11:47,329 --> 00:11:50,357
+00:11:38,729 --> 00:11:41,757
 ou les nouveaux centres sportifs et
 culturels que nous construisons,
 
 112
-00:11:51,121 --> 00:11:54,037
+00:11:42,521 --> 00:11:45,437
 nous préparons cette belle ville
 à la construction
 
 113
-00:11:54,643 --> 00:11:57,868
+00:11:46,043 --> 00:11:49,268
 d’un avenir moderne sur
 une base historique.
 
 114
-00:11:59,604 --> 00:12:00,722
+00:11:51,004 --> 00:11:52,122
 En même temps,
 
 115
-00:12:00,406 --> 00:12:07,310
+00:11:51,806 --> 00:11:58,710
 nous investissons pour faire d’Istanbul
 le centre du monde de la finance.
 
 116
-00:12:09,988 --> 00:12:13,919
+00:12:01,388 --> 00:12:05,319
 En 1995, la Banque Mondiale
 a publié un rapport.
 
 117
-00:12:13,928 --> 00:12:17,069
+00:12:05,328 --> 00:12:08,469
 Mücella Yapıcı
 Chambre d'architecture d'Istanbul
 
 118
-00:12:17,889 --> 00:12:21,919
+00:12:09,289 --> 00:12:13,319
 Ce rapport préconisait
 l’apparition en Turquie
 
 119
-00:12:22,201 --> 00:12:25,423
+00:12:13,601 --> 00:12:16,823
 d’une ou deux métropoles.
 
 120
-00:12:26,197 --> 00:12:27,508
+00:12:17,597 --> 00:12:18,908
 Les métropoles, aujourd’hui,
 
 121
-00:12:28,251 --> 00:12:32,788
+00:12:19,651 --> 00:12:24,188
 fournissent la force de travail
 de l’industrie de service,
 
 122
-00:12:33,670 --> 00:12:36,789
+00:12:25,070 --> 00:12:28,189
 et sont des marchés de consommation
 facilement accessibles.
 
 123
-00:12:40,039 --> 00:12:43,061
+00:12:31,439 --> 00:12:34,461
 Notre plus grand atout est la
 possibilité de faire des affaires.
 
 124
-00:12:43,321 --> 00:12:47,283
+00:12:34,721 --> 00:12:38,683
 Aujourd’hui, la Turquie reste
 une terre d’opportunités.
 
 125
-00:12:47,575 --> 00:12:49,898
+00:12:38,975 --> 00:12:41,298
 (Ali Ağaoğlu - entrepreneur)
 
 126
-00:12:49,911 --> 00:12:51,997
+00:12:41,311 --> 00:12:43,397
 Si vous travaillez dur, avec
 détermination et intégrité,
 
 127
-00:12:52,048 --> 00:12:54,462
+00:12:43,448 --> 00:12:45,862
 vous réussirez.
 
 128
-00:12:56,062 --> 00:13:00,393
+00:12:47,462 --> 00:12:51,793
 De cette manière, la Méditerranée orientale,
 le Caucase, le Moyen Orient
 
 129
-00:13:00,597 --> 00:13:05,027
+00:12:51,997 --> 00:12:56,427
 et les Balkans peuvent être
 contrôlés depuis Istanbul.
 
 130
-00:13:05,254 --> 00:13:08,378
+00:12:56,654 --> 00:12:59,778
 Mustafa Sönmez
 Économiste et auteur
 
 131
-00:13:09,585 --> 00:13:13,713
+00:13:00,985 --> 00:13:05,113
 Les sièges sociaux régionaux des
 entreprises multinationales
 
 132
-00:13:13,996 --> 00:13:19,334
+00:13:05,396 --> 00:13:10,734
 seront à Istanbul, depuis laquelle elles
 contrôleront leurs investissements.
 
 133
-00:13:22,648 --> 00:13:30,930
+00:13:14,048 --> 00:13:22,330
 Istanbul ne sera « Capitale européenne
 de la culture » qu'un an,
 
 134
-00:13:30,961 --> 00:13:39,418
+00:13:22,361 --> 00:13:30,818
 mais aussi longtemps que la ville existera,
 ce sera un centre culturel européen.
 
 135
-00:13:45,472 --> 00:13:47,684
+00:13:36,872 --> 00:13:39,084
 C’est vrai que ce que nous voyons à Istanbul
 
 136
-00:13:47,934 --> 00:13:51,858
+00:13:39,334 --> 00:13:43,258
 n’est pas fondamentalement
 différent d’autres villes
 
 137
-00:13:51,928 --> 00:13:53,618
+00:13:43,328 --> 00:13:45,018
 à la croissance très rapide,
 
 138
-00:13:54,024 --> 00:13:56,046
+00:13:45,424 --> 00:13:47,446
 d’autres villes très riches
 
 139
-00:13:56,760 --> 00:13:58,774
+00:13:48,160 --> 00:13:50,174
 qui cherchent à devenir
 des villes globales.
 
 140
-00:13:58,910 --> 00:14:00,321
+00:13:50,310 --> 00:13:51,721
 Yves Cabannes - University College London
 Membre du groupe de travail
 
 141
-00:14:00,411 --> 00:14:03,057
+00:13:51,811 --> 00:13:54,457
 sur les expulsions, HABITAT, ONU
 (UN HABITAT AGFE)
 
 142
-00:14:03,731 --> 00:14:06,452
+00:13:55,131 --> 00:13:57,852
 Énormément de centre commerciaux,
 des banques internationales,
 
 143
-00:14:06,998 --> 00:14:10,631
+00:13:58,398 --> 00:14:02,031
 des investissements lourds,
 la concentration des richesses,
 
 144
-00:14:10,835 --> 00:14:17,173
+00:14:02,235 --> 00:14:08,573
 ici la Formule 1, des clubs de golfs,
 des marinas...
 
 145
-00:14:19,600 --> 00:14:21,511
+00:14:11,000 --> 00:14:12,911
 Tout ceci a un prix.
 
 146
-00:14:21,914 --> 00:14:27,473
+00:14:13,314 --> 00:14:18,873
 Ça a un prix parce que ça a tendance à
 justifier un renouvellement très lourd,
 
 147
-00:14:27,907 --> 00:14:32,334
+00:14:19,307 --> 00:14:23,734
 et ceux qui ont construit la ville, ce qui
 devient maintenant le centre de la ville,
 
 148
-00:14:32,446 --> 00:14:35,249
+00:14:23,846 --> 00:14:26,649
 seront nécessairement repoussés
 par ces nouvelles forces du capital,
 
 149
-00:14:35,470 --> 00:14:37,387
+00:14:26,870 --> 00:14:28,787
 ces nouvelles forces d’investissements.
 
 150
-00:14:37,610 --> 00:14:41,438
+00:14:29,010 --> 00:14:32,838
 <i>Bulldozers, attention ! Sevil vit ici
 et s'oppose aux démolitions !</i>
 
 151
-00:14:41,643 --> 00:14:46,575
+00:14:33,043 --> 00:14:37,975
 Ils sont expulsés. Par la force.
 
 152
-00:14:50,660 --> 00:14:54,885
+00:14:42,060 --> 00:14:46,285
 Hangzhou, Chine
 
 153
-00:15:07,562 --> 00:15:11,487
+00:14:58,962 --> 00:15:02,887
 Lyari, Pakistan
 
 154
-00:15:32,321 --> 00:15:37,049
+00:15:23,721 --> 00:15:28,449
 Lisbonne, Portugal
 
 155
-00:15:46,317 --> 00:15:54,069
+00:15:37,717 --> 00:15:45,469
 Basibüyük, Istanbul
 
 156
-00:16:08,172 --> 00:16:14,610
+00:15:59,572 --> 00:16:06,010
 Sulukule, Istanbul
 
 157
-00:16:35,460 --> 00:16:42,303
+00:16:26,860 --> 00:16:33,703
 Ayazma, Istanbul
 Novembre 2008
 
 158
-00:16:46,058 --> 00:16:50,289
+00:16:37,458 --> 00:16:41,689
 Est-ce que vous allez m’y emmener ?
 Qui est le responsable ? Où sont vos ordres ?
 
 159
-00:16:50,215 --> 00:16:52,630
+00:16:41,615 --> 00:16:44,030
 Ça fait trois ans que je vis dans une tente !
 
 160
-00:16:53,207 --> 00:16:55,319
+00:16:44,607 --> 00:16:46,719
 Mes enfants vont à l’école ici !
 
 161
-00:16:57,169 --> 00:17:00,386
+00:16:48,569 --> 00:16:51,786
 Je vous jure que je vais construire
 une autre tente !
 
 162
-00:17:05,672 --> 00:17:08,800
+00:16:57,072 --> 00:17:00,200
 Mon Dieu, arrêtez ça !
 Je ne peux pas supporter de voir ça !
 
 163
-00:17:09,663 --> 00:17:14,189
+00:17:01,063 --> 00:17:05,589
 Dieu vous punira !
 Que Dieu détruise votre maison aussi !
 
 164
-00:17:25,176 --> 00:17:28,223
+00:17:16,576 --> 00:17:19,623
 Allez. Venez avec nous.
 
 165
-00:17:32,174 --> 00:17:34,791
+00:17:23,574 --> 00:17:26,191
 Je ne vais pas me jeter sous le bulldozer !
 
 166
-00:17:35,592 --> 00:17:37,704
+00:17:26,992 --> 00:17:29,104
 Rendez-moi ma maison !
 
 167
-00:17:38,098 --> 00:17:40,234
+00:17:29,498 --> 00:17:31,634
 Comportez-vous comme un homme !
 
 168
-00:18:11,607 --> 00:18:13,217
+00:18:03,007 --> 00:18:04,617
 Je vais la reconstruire tout de suite !
 
 169
-00:18:14,983 --> 00:18:16,696
+00:18:06,383 --> 00:18:08,096
 Ömer, apporte-moi un marteau.
 
 170
-00:18:23,534 --> 00:18:26,147
+00:18:14,934 --> 00:18:17,547
 DICTIONNAIRE DE LANGUES
 
 171
-00:18:52,805 --> 00:18:54,112
+00:18:44,205 --> 00:18:45,512
 Je la reconstruis tout de suite.
 
 172
-00:19:49,162 --> 00:19:53,516
+00:19:40,562 --> 00:19:44,916
 2 ans plus tard.
 
 173
-00:19:57,575 --> 00:20:00,294
+00:19:48,975 --> 00:19:51,694
 "Je suis Ali Ağaoğlu, et voici
 Ayazma, à Istanbul.
 
 174
-00:20:00,391 --> 00:20:03,915
+00:19:51,791 --> 00:19:55,315
 Nous sommes en train de créer un nouvel
 espace de vie ici avec 3100 maisons.
 
 175
-00:20:03,993 --> 00:20:05,803
+00:19:55,393 --> 00:19:57,203
 87 % seront vert,
 
 176
-00:20:05,968 --> 00:20:08,011
+00:19:57,368 --> 00:19:59,411
 et il y aura un terrain de golf.
 
 177
-00:20:08,724 --> 00:20:12,754
+00:20:00,124 --> 00:20:04,154
 J’ai toujours rêvé de jardins au 10e étage.
 Ici, le rêve va se réaliser !
 
 178
-00:20:13,387 --> 00:20:18,423
+00:20:04,787 --> 00:20:09,823
 Tout le monde mérite de vivre
 dans une maison avec une piscine.
 
 179
-00:20:18,777 --> 00:20:22,212
+00:20:10,177 --> 00:20:13,612
 Il y aura de nombreuses piscines,
 dont une de 130 mètres de long.
 
 180
-00:20:23,006 --> 00:20:25,925
+00:20:14,406 --> 00:20:17,325
 Il y aura un square, un centre
 commercial, tout !
 
 181
-00:20:26,808 --> 00:20:27,818
+00:20:18,208 --> 00:20:19,218
 Ce sera plein de vie !
 
 182
-00:20:28,557 --> 00:20:29,997
+00:20:19,957 --> 00:20:21,397
 Comme la résidence produira
 sa propre électricité,
 
 183
-00:20:30,306 --> 00:20:32,622
+00:20:21,706 --> 00:20:24,022
 vous économiserez 20 %
 des coûts de l’énergie.
 
 184
-00:20:33,767 --> 00:20:35,684
+00:20:25,167 --> 00:20:27,084
 Avec un acompte de 10 000
 Lires Turques (3 700 €),
 
 185
-00:20:35,970 --> 00:20:37,680
+00:20:27,370 --> 00:20:29,080
 tout le monde peut posséder
 un appartement !
 
 186
-00:20:38,082 --> 00:20:39,392
+00:20:29,482 --> 00:20:30,792
 Les ventes ont déjà commencé !"
 
 187
-00:21:00,464 --> 00:21:04,187
+00:20:51,864 --> 00:20:55,587
 Ayazma, Istanbul
 Août 2008
 
 188
-00:21:14,520 --> 00:21:19,760
+00:21:05,920 --> 00:21:11,160
 Ayazma est un petit secteur de
 Küçükçekmece, un district d’Istanbul.
 
 189
-00:21:20,600 --> 00:21:24,400
+00:21:12,000 --> 00:21:15,800
 C’est un témoignage vivant
 des politiques néolibérales.
 
 190
-00:21:24,800 --> 00:21:27,000
+00:21:16,200 --> 00:21:18,400
 C’est un témoignage de la manière
 dont les capitalistes
 
 191
-00:21:28,080 --> 00:21:31,680
+00:21:19,480 --> 00:21:23,080
 voient la ville comme un lieu
 de spéculation.
 
 192
-00:21:31,960 --> 00:21:35,360
+00:21:23,360 --> 00:21:26,760
 C’est un témoignage des conséquences
 de la globalisation
 
 193
-00:21:35,720 --> 00:21:39,600
+00:21:27,120 --> 00:21:31,000
 et de la marchandisation de la terre.
 
 194
-00:21:39,760 --> 00:21:43,720
+00:21:31,160 --> 00:21:35,120
 Cihan Baysal - UN HABITAT AGFE
 Consultante locale
 
 195
-00:21:44,400 --> 00:21:49,080
+00:21:35,800 --> 00:21:40,480
 Ce secteur a pris de la valeur après
 la construction du Stadium Olympique.
 
 196
-00:21:49,480 --> 00:21:53,360
+00:21:40,880 --> 00:21:44,760
 Brusquement, un quartier loin des regards,
 
 197
-00:21:53,640 --> 00:21:57,480
+00:21:45,040 --> 00:21:48,880
 loin des infrastructures
 et des services municipaux,
 
 198
-00:21:57,760 --> 00:22:02,120
+00:21:49,160 --> 00:21:53,520
 un secteur même pas reconnu par l’état
 
 199
-00:22:02,400 --> 00:22:05,080
+00:21:53,800 --> 00:21:56,480
 s’est mis à avoir de la valeur.
 
 200
-00:22:05,360 --> 00:22:08,880
+00:21:56,760 --> 00:22:00,280
 Les habitants sont contraints de se déplacer.
 
 201
-00:22:09,440 --> 00:22:15,200
+00:22:00,840 --> 00:22:06,600
 Ce secteur va se transformer en logements
 de luxe ou je ne sais pas quoi d’autre,
 
 202
-00:22:16,120 --> 00:22:20,400
+00:22:07,520 --> 00:22:11,800
 mais au final, les gens d’ici seront
 complètement ignorés
 
 203
-00:22:21,160 --> 00:22:26,920
+00:22:12,560 --> 00:22:18,320
 par les dessins d’architectes qui
 prétendront améliorer les choses.
 
 204
-00:22:27,200 --> 00:22:32,320
+00:22:18,600 --> 00:22:23,720
 En réalité, les gens d’ici souffrent
 alors que la ville se divise.
 
 205
-00:22:35,000 --> 00:22:37,760
+00:22:26,400 --> 00:22:29,160
 À chaque nouvelle élection, ils apportent
 un nouveau service :
 
 206
-00:22:38,120 --> 00:22:43,440
+00:22:29,520 --> 00:22:34,840
 le téléphone, l’électricité, les routes, l’eau...
 
 207
-00:22:43,720 --> 00:22:46,600
+00:22:35,120 --> 00:22:38,000
 L’an dernier, ils ont branché l’eau.
 
 208
-00:22:47,360 --> 00:22:50,240
+00:22:38,760 --> 00:22:41,640
 Je veux dire, le projet de renouvellement
 est complètement planifié,
 
 209
-00:22:51,120 --> 00:22:53,920
+00:22:42,520 --> 00:22:45,320
 et puis d'un coup, l’eau arrive.
 
 210
-00:22:54,200 --> 00:22:57,200
+00:22:45,600 --> 00:22:48,600
 Si l'endroit est déclaré comme
 un secteur à renouveler,
 
 211
-00:22:57,480 --> 00:23:01,280
+00:22:48,880 --> 00:22:52,680
 pourquoi alors installer l’eau ?
 
 212
-00:23:03,640 --> 00:23:05,800
+00:22:55,040 --> 00:22:57,200
 Ils l’ont fait pour les votes.
 
 213
-00:23:15,440 --> 00:23:18,040
+00:23:06,840 --> 00:23:09,440
 La municipalité agit comme une entreprise
 
 214
-00:23:18,320 --> 00:23:22,440
+00:23:09,720 --> 00:23:13,840
 qui fait affaire avec TOKI, l’administration
 de développement du logement.
 
 215
-00:23:22,840 --> 00:23:27,120
+00:23:14,240 --> 00:23:18,520
 Il donnent à TOKI, TOKI donne à
 ses partenaires et c’est vendu.
 
 216
-00:23:29,360 --> 00:23:33,720
+00:23:20,760 --> 00:23:25,120
 Mais il n'y a pas qu'avec la terre
 qu'ils font des bénéfices,
 
 217
-00:23:34,000 --> 00:23:37,600
+00:23:25,400 --> 00:23:29,000
 Ils en font aussi sur le dos des gens.
 
 218
-00:23:38,440 --> 00:23:41,480
+00:23:29,840 --> 00:23:32,880
 C’est la fin de l’État social.
 
 219
-00:23:42,880 --> 00:23:44,240
+00:23:34,280 --> 00:23:35,640
 Aujourd’hui,
 
 220
-00:23:44,640 --> 00:23:50,200
+00:23:36,040 --> 00:23:41,600
 si vous voulez prendre le bus,
 il faut payer.
 
 221
-00:23:50,920 --> 00:23:55,280
+00:23:42,320 --> 00:23:46,680
 Oui, l’état social doit
 s’occuper de ces gens,
 
 222
-00:23:55,680 --> 00:23:58,920
+00:23:47,080 --> 00:23:50,320
 mais il faut qu’ils contribuent, eux aussi.
 
 223
-00:23:59,320 --> 00:24:02,680
+00:23:50,720 --> 00:23:54,080
 J’aurais bien aimé qu’ils puissent
 acheter tout ce qu’ils veulent,
 
 224
-00:24:02,960 --> 00:24:06,720
+00:23:54,360 --> 00:23:58,120
 mais seul Dieu peut donner sans prendre.
 
 225
-00:24:09,560 --> 00:24:11,971
+00:24:00,960 --> 00:24:03,371
 Demain, vous allez vendre chacun
 de ces appartements
 
 226
-00:24:12,027 --> 00:24:14,875
+00:24:03,427 --> 00:24:06,275
 pour 750.000 ou 800.000 TL (280.000 €).
 
 227
-00:24:16,200 --> 00:24:18,520
+00:24:07,600 --> 00:24:09,920
 Ils vaudront bientôt 1 million.
 
 228
-00:24:19,160 --> 00:24:21,720
+00:24:10,560 --> 00:24:13,120
 S’agit-il d’un profit spéculatif ? Bien sûr.
 
 229
-00:24:23,600 --> 00:24:25,960
+00:24:15,000 --> 00:24:17,360
 Donnez-nous ce que vous nous devez.
 
 230
-00:24:26,240 --> 00:24:29,760
+00:24:17,640 --> 00:24:21,160
 Nous paierons ce que nous pouvons.
 
 231
-00:24:31,040 --> 00:24:33,120
+00:24:22,440 --> 00:24:24,520
 Nous ne demandons pas l’aumône.
 
 232
-00:24:37,240 --> 00:24:40,360
+00:24:28,640 --> 00:24:31,760
 Je ne veux pas qu’ils souffrent.
 Je suis de leur côté.
 
 233
-00:24:40,640 --> 00:24:47,000
+00:24:32,040 --> 00:24:38,400
 Mais si l’État leur donne des appartements,
 alors tout le monde
 
 234
-00:24:47,250 --> 00:24:48,750
+00:24:38,650 --> 00:24:40,150
 devrait recevoir un appartement.
 
 235
-00:24:47,280 --> 00:24:50,120
+00:24:38,680 --> 00:24:41,520
 Je serais le premier à m’y opposer.
 
 236
-00:24:50,480 --> 00:24:56,240
+00:24:41,880 --> 00:24:47,640
 Ce serait injuste et anticonstitutionnel.
 
 237
-00:24:58,400 --> 00:25:00,531
+00:24:49,800 --> 00:24:51,931
 J’aimerais bien que l’État
 aie les moyens de donner
 
 238
-00:25:00,690 --> 00:25:04,270
+00:24:52,090 --> 00:24:55,670
 un appartement gratuit à tout le monde.
 
 239
-00:25:05,360 --> 00:25:07,800
+00:24:56,760 --> 00:24:59,200
 Mais si vous êtes locataire,
 
 240
-00:25:08,080 --> 00:25:11,420
+00:24:59,480 --> 00:25:02,820
 que vous demandez un appartement
 et que vous l’obtenez,
 
 241
-00:25:11,463 --> 00:25:13,307
+00:25:02,863 --> 00:25:04,707
 ça encourage la criminalité.
 
 242
-00:25:13,440 --> 00:25:15,400
+00:25:04,840 --> 00:25:06,800
 Ce serait injuste.
 
 243
-00:25:16,240 --> 00:25:19,640
+00:25:07,640 --> 00:25:11,040
 Que nous soyons propriétaires ou locataires,
 
 244
-00:25:19,920 --> 00:25:23,600
+00:25:11,320 --> 00:25:15,000
 nous devrions tous être relogés ici.
 
 245
-00:25:24,160 --> 00:25:30,800
+00:25:15,560 --> 00:25:22,200
 Et parce qu’il s’agit de logement social,
 si d’autres sont dans le besoin,
 
 246
-00:25:31,320 --> 00:25:33,880
+00:25:22,720 --> 00:25:25,280
 ils devraient aussi être relogés ici.
 
 247
-00:25:34,480 --> 00:25:36,720
+00:25:25,880 --> 00:25:28,120
 Ça devrait faire partie du projet !
 
 248
-00:25:40,200 --> 00:25:42,600
+00:25:31,600 --> 00:25:34,000
 ZONE DE RENOUVELLEMENT URBAIN
 
 249
-00:25:42,720 --> 00:25:50,600
+00:25:34,120 --> 00:25:42,000
 ALLONS NOUS ENTRER DANS L’UE
 EN EXPLOITANT LES PAUVRES ?
 
 250
-00:26:00,400 --> 00:26:05,600
+00:25:51,800 --> 00:25:57,000
 Dans notre constitution, il n’y a pas de
 référence explicite au droit au logement.
 
 251
-00:26:06,000 --> 00:26:09,785
+00:25:57,400 --> 00:26:01,185
 Mais avec les clauses sur la propriété,
 les droits relatifs à la santé
 
 252
-00:26:10,077 --> 00:26:13,108
+00:26:01,477 --> 00:26:04,508
 et à l’environnement, avec
 les clauses 20, 56 et 57,
 
 253
-00:26:13,225 --> 00:26:19,240
+00:26:04,625 --> 00:26:10,640
 on peut en déduire un droit au logement.
 
 254
-00:26:20,920 --> 00:26:22,320
+00:26:12,320 --> 00:26:13,720
 Pourtant, ces droits devraient découler
 du droit au logement.
 
 255
-00:26:22,600 --> 00:26:24,877
+00:26:14,000 --> 00:26:16,277
 Nous avons besoin d’un logement
 
 256
-00:26:25,022 --> 00:26:27,468
+00:26:16,422 --> 00:26:18,868
 avant de pouvoir accéder
 
 257
-00:26:27,616 --> 00:26:30,937
+00:26:19,016 --> 00:26:22,337
 à l’éducation et aux soins,
 
 258
-00:26:31,359 --> 00:26:35,683
+00:26:22,759 --> 00:26:27,083
 ou au droit à un environnement sain.
 
 259
-00:26:47,720 --> 00:26:52,400
+00:26:39,120 --> 00:26:43,800
 Malheureusement, mes enfants
 ne recevront plus d’éducation.
 
 260
-00:26:53,040 --> 00:26:56,840
+00:26:44,440 --> 00:26:48,240
 Nous avons connu deux démolitions
 en deux ans.
 
 261
-00:26:57,240 --> 00:26:59,720
+00:26:48,640 --> 00:26:51,120
 Mes enfants ont redoublé.
 
 262
-00:27:00,000 --> 00:27:02,680
+00:26:51,400 --> 00:26:54,080
 J’ai dû les enlever de l’école,
 parce que nous sommes pauvres.
 
 263
-00:27:03,240 --> 00:27:06,640
+00:26:54,640 --> 00:26:58,040
 Et il n’y a pas de travail. Ils étaient
 en 4e et en 7e (9 et 12 ans).
 
 264
-00:27:07,440 --> 00:27:10,400
+00:26:58,840 --> 00:27:01,800
 Maintenant, ils travaillent dans
 les usines de textile
 
 265
-00:27:10,680 --> 00:27:12,800
+00:27:02,080 --> 00:27:04,200
 pour 300 ou 400 TL
 (100-150 €) par mois.
 
 266
-00:27:19,280 --> 00:27:21,800
+00:27:10,680 --> 00:27:13,200
 D’où nous venons ? De l’est.
 
 267
-00:27:23,640 --> 00:27:29,240
+00:27:15,040 --> 00:27:20,640
 S’il y avait du travail dans les usines là-bas,
 
 268
-00:27:30,280 --> 00:27:33,920
+00:27:21,680 --> 00:27:25,320
 nous ne serions pas venus à Istanbul,
 
 269
-00:27:34,200 --> 00:27:35,520
+00:27:25,600 --> 00:27:26,920
 Izmir,
 
 270
-00:27:36,160 --> 00:27:37,760
+00:27:27,560 --> 00:27:29,160
 ou Ankara.
 
 271
-00:27:38,280 --> 00:27:39,720
+00:27:29,680 --> 00:27:31,120
 Je me trompe ?
 
 272
-00:27:40,160 --> 00:27:44,200
+00:27:31,560 --> 00:27:35,600
 Il va y avoir de nombreuses autres victimes
 des projets de renouvellement urbain.
 
 273
-00:27:44,480 --> 00:27:47,320
+00:27:35,880 --> 00:27:38,720
 Beaucoup resteront dans la pauvreté.
 
 274
-00:27:48,320 --> 00:27:51,160
+00:27:39,720 --> 00:27:42,560
 Ils ne peuvent pas rentrer chez eux.
 Il n’y a plus de terre.
 
 275
-00:27:55,040 --> 00:27:58,080
+00:27:46,440 --> 00:27:49,480
 Construisez des usines dans l’Est
 et nous nous en irons.
 
 276
-00:27:59,000 --> 00:28:03,960
+00:27:50,400 --> 00:27:55,360
 Pourquoi devrais-je travailler ici ? Je gagne
 600 TL par mois (220 €), le salaire minimum.
 
 277
-00:28:04,240 --> 00:28:06,360
+00:27:55,640 --> 00:27:57,760
 Je préfèrerais travailler dans mon village.
 
 278
-00:28:06,760 --> 00:28:10,440
+00:27:58,160 --> 00:28:01,840
 Ils y ont fermé 4 usines.
 
 279
-00:28:12,680 --> 00:28:16,000
+00:28:04,080 --> 00:28:07,400
 Des usines de tabac, de sucre,
 d’huile de tournesol.
 
 280
-00:28:17,320 --> 00:28:19,440
+00:28:08,720 --> 00:28:10,840
 Elles sont toutes au ralenti.
 
 281
-00:28:20,560 --> 00:28:23,080
+00:28:11,960 --> 00:28:14,480
 Relancez-les, et nous irons travailler là-bas.
 
 282
-00:28:23,560 --> 00:28:25,720
+00:28:14,960 --> 00:28:17,120
 Pourquoi devrions-nous tolérer ça ?
 
 283
-00:28:48,080 --> 00:29:01,000
+00:28:39,480 --> 00:28:52,400
 CHAPITRE 2 :
 LES DYNAMIQUES DU SYSTÈME
 
 284
-00:29:29,240 --> 00:29:32,480
+00:29:20,640 --> 00:29:23,880
 L’immobilier et le secteur automobile
 sont devenus
 
 285
-00:29:33,040 --> 00:29:38,320
+00:29:24,440 --> 00:29:29,720
 les principaux moteurs économiques.
 Il n’y a plus de production.
 
 286
-00:29:38,800 --> 00:29:41,440
+00:29:30,200 --> 00:29:32,840
 "Votre maison, c’est votre vie.
 Votre vie vous appartient-elle ?
 
 287
-00:29:41,720 --> 00:29:43,040
+00:29:33,120 --> 00:29:34,440
 Un style de vie première classe
 
 288
-00:29:43,320 --> 00:29:44,880
+00:29:34,720 --> 00:29:36,280
 au plus près de vos besoins
 
 289
-00:29:45,160 --> 00:29:46,760
+00:29:36,560 --> 00:29:38,160
 construit pour une vie particulière
 
 290
-00:29:47,400 --> 00:29:49,400
+00:29:38,800 --> 00:29:40,800
 En harmonie avec la nature
 
 291
-00:29:49,680 --> 00:29:51,120
+00:29:41,080 --> 00:29:42,520
 un emplacement central idéal à Maslak
 
 292
-00:29:51,840 --> 00:29:53,600
+00:29:43,240 --> 00:29:45,000
 Pour une vie de réussite...
 
 293
-00:29:54,320 --> 00:29:56,943
+00:29:45,720 --> 00:29:48,343
 De nombreuses facilités de paiement...
 Un jardin dans le ciel...
 
 294
-00:29:57,118 --> 00:29:58,630
+00:29:48,518 --> 00:29:50,030
 La maison de vos rêves...
 
 295
-00:29:58,725 --> 00:30:02,760
+00:29:50,125 --> 00:29:54,160
 Êtes-vous prêts à rencontrer le futur
 du monde de la voiture ?
 
 296
-00:30:04,120 --> 00:30:11,040
+00:29:55,520 --> 00:30:02,440
 La bulle financière créée par le capitalisme
 dans les années 1990
 
 297
-00:30:11,680 --> 00:30:16,720
+00:30:03,080 --> 00:30:08,120
 a éclaté avec la crise de 2007-2008.
 
 298
-00:30:17,600 --> 00:30:19,910
+00:30:09,000 --> 00:30:11,310
 Le résultat, c’est que tout le
 développement urbain
 
 299
-00:30:20,089 --> 00:30:23,092
+00:30:11,489 --> 00:30:14,492
 basé sur le concept de ville globale
 
 300
-00:30:23,296 --> 00:30:24,276
+00:30:14,696 --> 00:30:15,676
 va échouer.
 
 301
-00:30:25,760 --> 00:30:28,680
+00:30:17,160 --> 00:30:20,080
 Toutes ces nouvelles constructions
 
 302
-00:30:28,960 --> 00:30:32,640
+00:30:20,360 --> 00:30:24,040
 seront inévitablement dévaluées.
 
 303
-00:30:36,560 --> 00:30:38,760
+00:30:27,960 --> 00:30:30,160
 Les statistiques montrent que l’immobilier
 
 304
-00:30:39,360 --> 00:30:44,080
+00:30:30,760 --> 00:30:35,480
 a connu une chute de 26 %
 depuis l’an dernier.
 
 305
-00:30:44,360 --> 00:30:46,280
+00:30:35,760 --> 00:30:37,680
 Mais pourquoi les ventes baissent-elles ?
 
 306
-00:30:46,560 --> 00:30:49,241
+00:30:37,960 --> 00:30:40,641
 NTV a posé la question au président
 
 307
-00:30:49,359 --> 00:30:52,085
+00:30:40,759 --> 00:30:43,485
 de l’Association
 des Conseillers Immobiliers.
 
 308
-00:30:52,480 --> 00:30:55,360
+00:30:43,880 --> 00:30:46,760
 Il y a 2 raisons principales :
 
 309
-00:30:55,640 --> 00:30:57,800
+00:30:47,040 --> 00:30:49,200
 le chômage élevé
 
 310
-00:30:58,080 --> 00:31:03,320
+00:30:49,480 --> 00:30:54,720
 et la crise économique.
 
 311
-00:31:03,600 --> 00:31:09,080
+00:30:55,000 --> 00:31:00,480
 Les gens ont peur de ne pas être
 en mesure de payer.
 
 312
-00:31:13,720 --> 00:31:18,640
+00:31:05,120 --> 00:31:10,040
 Il y a 400 000 logements vides à Istanbul.
 
 313
-00:31:19,360 --> 00:31:21,367
+00:31:10,760 --> 00:31:12,767
 Si l’on ajoute à ça les logements vides
 aux abords immédiats de la ville,
 
 314
-00:31:21,647 --> 00:31:23,952
+00:31:13,047 --> 00:31:15,352
 on monte à 600 000.
 
 315
-00:31:24,240 --> 00:31:28,640
+00:31:15,640 --> 00:31:20,040
 On s’attend à ce que le chiffre atteigne
 700 000 à la fin de 2010.
 
 316
-00:31:29,320 --> 00:31:34,440
+00:31:20,720 --> 00:31:25,840
 Pour terminer, que prévoyez-vous
 pour le secteur ?
 
 317
-00:31:36,120 --> 00:31:40,120
+00:31:27,520 --> 00:31:31,520
 Je prévois des villes-fantômes à venir.
 
 318
-00:31:50,600 --> 00:31:52,720
+00:31:42,000 --> 00:31:44,120
 Les méga-investissements
 
 319
-00:31:53,000 --> 00:31:59,240
+00:31:44,400 --> 00:31:50,640
 que les investisseurs étrangers ne peuvent
 réaliser dans leurs pays respectifs,
 
 320
-00:31:59,960 --> 00:32:02,618
+00:31:51,360 --> 00:31:54,018
 pour des raisons légales et de
 processus démocratique,
 
 321
-00:32:02,804 --> 00:32:05,627
+00:31:54,204 --> 00:31:57,027
 finissent tous par arriver ici.
 
 322
-00:32:07,880 --> 00:32:11,400
+00:31:59,280 --> 00:32:02,800
 J’aimerais poser une question :
 
 323
-00:32:12,120 --> 00:32:16,880
+00:32:03,520 --> 00:32:08,280
 Peut-on construire un hôtel à Central Park ?
 
 324
-00:32:19,200 --> 00:32:20,440
+00:32:10,600 --> 00:32:11,840
 Non !
 
 325
-00:32:22,680 --> 00:32:25,200
+00:32:14,080 --> 00:32:16,600
 Parce que tout le monde sait que cet espace
 
 326
-00:32:25,480 --> 00:32:31,120
+00:32:16,880 --> 00:32:22,520
 est nécessaire à la respiration
 de la ville.
 
 327
-00:32:31,720 --> 00:32:35,720
+00:32:23,120 --> 00:32:27,120
 C’est nécessaire pour que la pluie
 atteigne le sol,
 
 328
-00:32:36,160 --> 00:32:39,120
+00:32:27,560 --> 00:32:30,520
 même si vous n’y allez pas.
 
 329
-00:32:40,120 --> 00:32:42,840
+00:32:31,520 --> 00:32:34,240
 Mais ici, on pense que ça fait moderne
 
 330
-00:32:44,200 --> 00:32:47,160
+00:32:35,600 --> 00:32:38,560
 de construire un parking sous un parc.
 
 331
-00:32:59,480 --> 00:33:02,320
+00:32:50,880 --> 00:32:53,720
 On perd le sol, mais on pense
 que c’est écolo
 
 332
-00:33:02,600 --> 00:33:07,360
+00:32:54,000 --> 00:32:58,760
 de planter des arbres sur des balcons.
 
 333
-00:33:09,360 --> 00:33:11,480
+00:33:00,760 --> 00:33:02,880
 On construit des maisons dans la forêt.
 
 334
-00:33:12,280 --> 00:33:15,800
+00:33:03,680 --> 00:33:07,200
 On construit de faux étangs
 
 335
-00:33:16,800 --> 00:33:18,920
+00:33:08,200 --> 00:33:10,320
 avec de l’eau souterraine,
 
 336
-00:33:19,200 --> 00:33:22,880
+00:33:10,600 --> 00:33:14,280
 on enlève tout le sol
 
 337
-00:33:23,160 --> 00:33:26,480
+00:33:14,560 --> 00:33:17,880
 et on élève des lapins dans
 50 centimètres de terre.
 
 338
-00:33:27,080 --> 00:33:28,920
+00:33:18,480 --> 00:33:20,320
 Et on appelle ça la nature.
 
 339
-00:33:30,120 --> 00:33:37,240
+00:33:21,520 --> 00:33:28,640
 Puis on décrète que les
 bidonvilles sont inhumains,
 
 340
-00:33:37,840 --> 00:33:41,040
+00:33:29,240 --> 00:33:32,440
 on les démolit
 
 341
-00:33:42,320 --> 00:33:48,840
+00:33:33,720 --> 00:33:40,240
 et on les remplace par des
 cages de Faraday en béton.
 
 342
-00:33:50,280 --> 00:33:52,920
+00:33:41,680 --> 00:33:44,320
 C’est incompréhensible.
 
 343
-00:33:54,040 --> 00:33:57,600
+00:33:45,440 --> 00:33:49,000
 Même si tout cela ne provoquait pas
 directement une crise sérieuse,
 
 344
-00:33:58,320 --> 00:34:01,560
+00:33:49,720 --> 00:33:52,960
 cette ville finira par nous tuer.
 
 345
-00:34:04,480 --> 00:34:06,960
+00:33:55,880 --> 00:33:58,360
 Si le troisième pont est construit...
 
 346
-00:34:08,640 --> 00:34:10,960
+00:34:00,040 --> 00:34:02,360
 Si le troisième pont est construit,
 
 347
-00:34:11,240 --> 00:34:13,240
+00:34:02,640 --> 00:34:04,640
 oubliez la question du transport.
 
 348
-00:34:15,040 --> 00:34:18,080
+00:34:06,440 --> 00:34:09,480
 Vous ne pourrez plus du tout
 vous déplacer dans Istanbul.
 
 349
-00:34:21,160 --> 00:34:34,080
+00:34:12,560 --> 00:34:25,480
 CHAPITRE 3 :
 LE TROISIÈME PONT
 
 350
-00:34:34,480 --> 00:34:37,400
+00:34:25,880 --> 00:34:28,800
 La localisation du troisième pont
 n’est pas encore annoncée
 
 351
-00:34:37,680 --> 00:34:39,680
+00:34:29,080 --> 00:34:31,080
 que la spéculation a déjà commencé.
 
 352
-00:34:39,960 --> 00:34:42,800
+00:34:31,360 --> 00:34:34,200
 Le Ministre des transports,
 Binali Yıldırım, a averti :
 
 353
-00:34:43,080 --> 00:34:47,240
+00:34:34,480 --> 00:34:38,640
 « N’achetez pas de terrains en fonction des
 cartes immobilières. Vous seriez déçus. »
 
 354
-00:34:48,560 --> 00:34:53,320
+00:34:39,960 --> 00:34:44,720
 Le troisième pont sera construit au nord
 des deux ponts actuels.
 
 355
-00:34:53,720 --> 00:34:56,560
+00:34:45,120 --> 00:34:47,960
 Il ne nuira pas aux espaces naturels
 
 356
-00:34:56,840 --> 00:34:58,800
+00:34:48,240 --> 00:34:50,200
 entre Istanbul
 
 357
-00:34:59,520 --> 00:35:01,400
+00:34:50,920 --> 00:34:52,800
 et la Mer Noire.
 
 358
-00:35:01,680 --> 00:35:06,240
+00:34:53,080 --> 00:34:57,640
 LE TROISIÈME PONT EXEMPTÉ
 D’ÉTUDE D’IMPACT
 
 359
-00:35:07,040 --> 00:35:11,280
+00:34:58,440 --> 00:35:02,680
 M. Yıldırım a qualifié les discussions
 relatives au troisième pont
 
 360
-00:35:11,560 --> 00:35:13,080
+00:35:02,960 --> 00:35:04,480
 de « nostalgiques ».
 
 361
-00:35:13,600 --> 00:35:16,160
+00:35:05,000 --> 00:35:07,560
 Ce débat est purement
 et simplement nostalgique.
 
 362
-00:35:16,840 --> 00:35:19,400
+00:35:08,240 --> 00:35:10,800
 Istanbul a besoin du troisième pont,
 
 363
-00:35:19,680 --> 00:35:22,680
+00:35:11,080 --> 00:35:14,080
 du premier et du deuxième tunnel.
 
 364
-00:35:22,960 --> 00:35:25,720
+00:35:14,360 --> 00:35:17,120
 Et de plus de moyens de traverser
 le Bosphore dans le futur.
 
 365
-00:35:27,520 --> 00:35:29,360
+00:35:18,920 --> 00:35:20,760
 Un pont sur le Bosphore
 
 366
-00:35:29,640 --> 00:35:33,600
+00:35:21,040 --> 00:35:25,000
 serait différent d’autres ponts
 à Istanbul ou ailleurs.
 
 367
-00:35:35,480 --> 00:35:39,680
+00:35:26,880 --> 00:35:31,080
 Il ne s’agit pas seulement d’une
 question de transports.
 
 368
-00:35:39,840 --> 00:35:41,554
+00:35:31,240 --> 00:35:32,954
 Oktay Ekinci
 Architecte, journaliste
 
 369
-00:35:41,834 --> 00:35:44,523
+00:35:33,234 --> 00:35:35,923
 Ancien Président de la
 Chambre des Architectes
 
 370
-00:35:47,480 --> 00:35:51,440
+00:35:38,880 --> 00:35:42,840
 Cinq emplacements alternatifs
 ont été étudiés,
 
 371
-00:35:51,960 --> 00:35:56,160
+00:35:43,360 --> 00:35:47,560
 mais le Premier Ministre a choisi celui
 
 372
-00:35:56,440 --> 00:36:01,160
+00:35:47,840 --> 00:35:52,560
 qui avait le moins d’impact
 sur les zones naturelles.
 
 373
-00:36:02,320 --> 00:36:06,600
+00:35:53,720 --> 00:35:58,000
 C’est une décision qui va marquer
 le futur d’Istanbul.
 
 374
-00:36:07,800 --> 00:36:14,120
+00:35:59,200 --> 00:36:05,520
 Nous connectons l’Europe à l’Asie
 par l’autoroute.
 
 375
-00:36:18,800 --> 00:36:21,280
+00:36:10,200 --> 00:36:12,680
 Les partisans du troisième pont
 
 376
-00:36:21,680 --> 00:36:25,880
+00:36:13,080 --> 00:36:17,280
 soutiennent qu’il est nécessaire pour faire
 face à l'augmentation du trafic,
 
 377
-00:36:26,200 --> 00:36:31,600
+00:36:17,600 --> 00:36:23,000
 et qu’il délestera le deuxième pont.
 
 378
-00:36:31,760 --> 00:36:33,662
+00:36:23,160 --> 00:36:25,062
 Haluk Gerçek
 Université Technique d’Istanbul
 
 379
-00:36:33,961 --> 00:36:36,985
+00:36:25,361 --> 00:36:28,385
 Directeur du Plan de Transports
 d’Istanbul de 1996
 
 380
-00:36:37,480 --> 00:36:43,240
+00:36:28,880 --> 00:36:34,640
 Mais un rapport scientifique de 2006,
 issu de l’Autorité Turque des Autoroutes,
 
 381
-00:36:44,800 --> 00:36:49,000
+00:36:36,200 --> 00:36:40,400
 a conclu que la part du trafic de transit
 
 382
-00:36:49,280 --> 00:36:54,680
+00:36:40,680 --> 00:36:46,080
 qui traverse les deux ponts actuels
 est de 2,85 %.
 
 383
-00:36:54,960 --> 00:36:57,120
+00:36:46,360 --> 00:36:48,520
 Même pas 3 %.
 
 384
-00:36:59,880 --> 00:37:03,040
+00:36:51,280 --> 00:36:54,440
 La particularité de la métropole d’Istanbu
 
 385
-00:37:04,200 --> 00:37:07,120
+00:36:55,600 --> 00:36:58,520
 est d’être prise en sandwich
 entre la Mer Noire
 
 386
-00:37:07,400 --> 00:37:10,360
+00:36:58,800 --> 00:37:01,760
 et la Mer de Marmara,
 dans une bande de 30 km.
 
 387
-00:37:11,240 --> 00:37:16,320
+00:37:02,640 --> 00:37:07,720
 Pendant longtemps, Istanbul s’est
 développée sur un tiers de cette bande.
 
 388
-00:37:17,520 --> 00:37:21,160
+00:37:08,920 --> 00:37:12,560
 Les deux tiers restants sont restés
 des zones naturelles.
 
 389
-00:37:22,200 --> 00:37:26,920
+00:37:13,600 --> 00:37:18,320
 Maintenant, les deux ponts
 et leurs autoroutes
 
 390
-00:37:27,200 --> 00:37:31,760
+00:37:18,600 --> 00:37:23,160
 ont permis l'extension de
 l'urbanisation sur les deux tiers.
 
 391
-00:37:32,480 --> 00:37:36,120
+00:37:23,880 --> 00:37:27,520
 Pour le tiers restant, le pont
 n’est pas le plus important.
 
 392
-00:37:36,480 --> 00:37:39,280
+00:37:27,880 --> 00:37:30,680
 C’est l’autoroute connectée au pont
 qui compte.
 
 393
-00:37:40,120 --> 00:37:44,920
+00:37:31,520 --> 00:37:36,320
 Le dernier tiers va aussi disparaître.
 
 394
-00:37:50,600 --> 00:37:56,160
+00:37:42,000 --> 00:37:47,560
 Dès que le mot a circulé à propos
 du troisième pont et de l’autoroute,
 
 395
-00:37:56,560 --> 00:38:01,040
+00:37:47,960 --> 00:37:52,440
 certaines personnes on fait des
 achats spéculatifs dans le secteur.
 
 396
-00:38:01,320 --> 00:38:07,360
+00:37:52,720 --> 00:37:58,760
 LE CENTRE D’ISTANBUL SE DÉPLACE
 VERS LA MER NOIRE
 
 397
-00:38:07,640 --> 00:38:11,320
+00:37:59,040 --> 00:38:02,720
 Après la construction du deuxième pont,
 
 398
-00:38:11,600 --> 00:38:13,920
+00:38:03,000 --> 00:38:05,320
 des villes illégales sont apparu.
 
 399
-00:38:14,200 --> 00:38:18,920
+00:38:05,600 --> 00:38:10,320
 Sultanbeyli en est un bon exemple.
 
 400
-00:38:21,720 --> 00:38:25,840
+00:38:13,120 --> 00:38:17,240
 Scientifiquement, si vous construisez
 une route, ça attirera le développement.
 
 401
-00:38:37,000 --> 00:38:39,516
+00:38:28,400 --> 00:38:30,916
 Ce n’est pas seulement le pont.
 C’est un axe qui traverse
 
 402
-00:38:39,791 --> 00:38:42,714
+00:38:31,191 --> 00:38:34,114
 toutes les réserves d’eau.
 
 403
-00:38:43,920 --> 00:38:46,334
+00:38:35,320 --> 00:38:37,734
 Hüseyin Kaptan
 Architecte et urbaniste
 
 404
-00:38:46,511 --> 00:38:49,939
+00:38:37,911 --> 00:38:41,339
 Ancien directeur du centre de
 planification métropolitaine d'Istanbul
 
 405
-00:38:50,720 --> 00:38:54,143
+00:38:42,120 --> 00:38:45,543
 Si ça traverse les réserves d’eau,
 Istanbul va devoir
 
 406
-00:38:54,487 --> 00:38:57,301
+00:38:45,887 --> 00:38:48,701
 affronter une catastrophe écologique.
 
 407
-00:39:04,320 --> 00:39:06,880
+00:38:55,720 --> 00:38:58,280
 Certaines personnes s’opposent au troisième pont.
 
 408
-00:39:07,160 --> 00:39:09,360
+00:38:58,560 --> 00:39:00,760
 Nous nous occupons de ces objections.
 
 409
-00:39:09,760 --> 00:39:13,000
+00:39:01,160 --> 00:39:04,400
 Mais les deux ponts existants,
 
 410
-00:39:13,280 --> 00:39:16,760
+00:39:04,680 --> 00:39:08,160
 même avec le tunnel ferré de Marmaray
 et le tunnel automobile,
 
 411
-00:39:17,040 --> 00:39:19,880
+00:39:08,440 --> 00:39:11,280
 ne sont pas suffisants pour Istanbul.
 
 412
-00:39:20,520 --> 00:39:23,520
+00:39:11,920 --> 00:39:14,920
 Nous avons l’intention de construire
 le tunnel automobile ;
 
 413
-00:39:24,080 --> 00:39:27,040
+00:39:15,480 --> 00:39:18,440
 Marmaray est déjà construit ;
 
 414
-00:39:27,440 --> 00:39:31,920
+00:39:18,840 --> 00:39:23,320
 nous avons déjà deux pont,
 et nous construirons le troisième,
 
 415
-00:39:32,200 --> 00:39:36,680
+00:39:23,600 --> 00:39:28,080
 afin de faciliter les transports
 entre l’Europe et l’Asie.
 
 416
-00:39:38,320 --> 00:39:43,560
+00:39:29,720 --> 00:39:34,960
 Les deux ponts existants
 ont eu un impact énorme
 
 417
-00:39:44,000 --> 00:39:50,760
+00:39:35,400 --> 00:39:42,160
 sur la démographie de la ville.
 
 418
-00:39:50,960 --> 00:39:54,800
+00:39:42,360 --> 00:39:46,200
 Şükrü Aslan
 Sociologue - Université Mimar Sinan
 
 419
-00:39:56,480 --> 00:39:58,200
+00:39:47,880 --> 00:39:49,600
 Entre 1985 et 1990,
 
 420
-00:39:58,520 --> 00:40:01,920
+00:39:49,920 --> 00:39:53,320
 Kağıthane and Ümraniye
 étaient les deux districts
 
 421
-00:40:02,200 --> 00:40:05,680
+00:39:53,600 --> 00:39:57,080
 avec la plus forte
 croissance démographique.
 
 422
-00:40:11,520 --> 00:40:14,440
+00:40:02,920 --> 00:40:05,840
 Il y a eu une croissance énorme ici.
 
 423
-00:40:17,640 --> 00:40:27,760
+00:40:09,040 --> 00:40:19,160
 Ces deux districts sont les plus
 proches du second pont
 
 424
-00:40:34,800 --> 00:40:45,760
+00:40:26,200 --> 00:40:37,160
 et au début des années 1980,
 il n’y avait que des villages ici,
 
 425
-00:40:46,010 --> 00:40:47,510
+00:40:37,410 --> 00:40:38,910
 avec peu d’industrie.
 
 426
-00:40:51,160 --> 00:40:56,397
+00:40:42,560 --> 00:40:47,797
 Ces petits villages ont commencé
 à se développer
 
 427
-00:40:56,590 --> 00:41:00,005
+00:40:47,990 --> 00:40:51,405
 avec le deuxième pont en 1988.
 
 428
-00:41:11,560 --> 00:41:13,920
+00:41:02,960 --> 00:41:05,320
 Si un nouveau pont est
 construit à Istanbul,
 
 429
-00:41:14,320 --> 00:41:20,280
+00:41:05,720 --> 00:41:11,680
 ce phénomène se reproduira
 encore plus vite.
 
 430
-00:41:22,360 --> 00:41:27,400
+00:41:13,760 --> 00:41:18,800
 Marmaray, la voie ferrée passant
 sous le Bosphore,
 
 431
-00:41:27,600 --> 00:41:32,840
+00:41:19,000 --> 00:41:24,240
 a été conçue en 1987. Elle est
 toujours en construction.
 
 432
-00:42:04,600 --> 00:42:06,240
+00:41:56,000 --> 00:41:57,640
 STOP !
 
 433
-00:42:10,120 --> 00:42:12,720
+00:42:01,520 --> 00:42:04,120
 La congestion au niveau de la
 traversée du Bosphore
 
 434
-00:42:13,040 --> 00:42:16,800
+00:42:04,440 --> 00:42:08,200
 est due à des politiques de transports
 basées sur l’automobile.
 
 435
-00:42:17,320 --> 00:42:21,400
+00:42:08,720 --> 00:42:12,800
 Il n’y a pas de système de transport
 développé entre les deux rives.
 
 436
-00:42:21,680 --> 00:42:24,120
+00:42:13,080 --> 00:42:15,520
 Le projet Marmaray est en cours.
 
 437
-00:42:24,400 --> 00:42:27,160
+00:42:15,800 --> 00:42:18,560
 Lorsqu’il sera terminé, il transportera
 600 000 personnes quotidiennement.
 
 438
-00:42:27,560 --> 00:42:33,183
+00:42:18,960 --> 00:42:24,583
 Dans les années à venir, ce nombre
 atteindra 1 million.
 
 439
-00:42:33,720 --> 00:42:37,400
+00:42:25,120 --> 00:42:28,800
 Comme il manque un tel axe de transport
 public, et que malheureusement,
 
 440
-00:42:38,600 --> 00:42:43,920
+00:42:30,000 --> 00:42:35,320
 les transports maritimes ne comptent
 que pour 20 % du trafic de traversée,
 
 441
-00:42:44,200 --> 00:42:47,560
+00:42:35,600 --> 00:42:38,960
 le reste passe essentiellement
 par l’automobile.
 
 442
-00:42:48,560 --> 00:42:50,960
+00:42:39,960 --> 00:42:42,360
 Le résultat, ce sont des
 bouchons interminables.
 
 443
-00:43:04,360 --> 00:43:09,720
+00:42:55,760 --> 00:43:01,120
 Les ponts à Istanbul nous montrent que
 l’apparition de nouveaux ponts,
 
 444
-00:43:10,160 --> 00:43:13,518
+00:43:01,560 --> 00:43:04,918
 ou plus généralement de nouvelles routes,
 commencent par soulager légèrement
 
 445
-00:43:13,709 --> 00:43:14,916
+00:43:05,109 --> 00:43:06,316
 les embouteillages.
 
 446
-00:43:16,760 --> 00:43:22,960
+00:43:08,160 --> 00:43:14,360
 Mais ils amènent aussi les gens à
 changer leurs habitudes de conduite.
 
 447
-00:43:23,320 --> 00:43:26,080
+00:43:14,720 --> 00:43:17,480
 Ceux qui ne conduisaient pas avant
 
 448
-00:43:26,760 --> 00:43:30,680
+00:43:18,160 --> 00:43:22,080
 à cause des bouchons
 
 449
-00:43:30,960 --> 00:43:34,280
+00:43:22,360 --> 00:43:25,680
 se mettent à prendre leur voiture.
 
 450
-00:43:37,320 --> 00:43:42,320
+00:43:28,720 --> 00:43:33,720
 Et ils conduisent sur des
 distances plus grandes.
 
 451
-00:43:42,960 --> 00:43:47,280
+00:43:34,360 --> 00:43:38,680
 Le seuil de tolérance
 est très vite atteint.
 
 452
-00:43:48,760 --> 00:43:52,840
+00:43:40,160 --> 00:43:44,240
 Et à long terme, l’occupation du sol change.
 
 453
-00:43:53,800 --> 00:44:00,560
+00:43:45,200 --> 00:43:51,960
 Des centres commerciaux, des logements
 et des industries apparaissent.
 
 454
-00:44:01,000 --> 00:44:04,800
+00:43:52,400 --> 00:43:56,200
 Ça rajoute un peu plus de trafic.
 
 455
-00:44:05,720 --> 00:44:12,320
+00:43:57,120 --> 00:44:03,720
 C’est une situation inextricable :
 chaque nouvelle route augmente le trafic.
 
 456
-00:44:16,040 --> 00:44:20,680
+00:44:07,440 --> 00:44:12,080
 Il faut mettre l’accent sur plus de transports public.
 
 457
-00:44:21,360 --> 00:44:28,040
+00:44:12,760 --> 00:44:19,440
 Les gens doivent avoir la possibilité
 de ne pas utiliser leur voiture.
 
 458
-00:44:28,320 --> 00:44:33,680
+00:44:19,720 --> 00:44:25,080
 Quand on compare Istanbul à
 d’autres métropoles développées,
 
 459
-00:44:34,640 --> 00:44:38,880
+00:44:26,040 --> 00:44:30,280
 comme Londres, Moscou,
 Tokyo, New York, Paris,
 
 460
-00:44:39,280 --> 00:44:43,640
+00:44:30,680 --> 00:44:35,040
 toutes ont environ 400 km
 de lignes de métro.
 
 461
-00:44:44,040 --> 00:44:46,373
+00:44:35,440 --> 00:44:37,773
 Les gens peuvent aller
 d’un point A à un point B
 
 462
-00:44:47,105 --> 00:44:49,426
+00:44:38,505 --> 00:44:40,826
 sans leur voiture dans un temps raisonnable.
 
 463
-00:44:51,880 --> 00:44:59,760
+00:44:43,280 --> 00:44:51,160
 Part du transit par rail dans
 l’ensemble du transport public
 
 464
-00:45:01,640 --> 00:45:02,680
+00:44:53,040 --> 00:44:54,080
 Ce n’est pas assez.
 
 465
-00:45:03,080 --> 00:45:08,040
+00:44:54,480 --> 00:44:59,440
 Les transports publics
 devraient être soutenus
 
 466
-00:45:08,920 --> 00:45:11,800
+00:45:00,320 --> 00:45:03,200
 par des politiques qui découragent
 l’usage de la voiture.
 
 467
-00:45:12,080 --> 00:45:16,320
+00:45:03,480 --> 00:45:07,720
 Par exemple en instaurant
 un système de péage urbain.
 
 468
-00:45:31,280 --> 00:45:36,080
+00:45:22,680 --> 00:45:27,480
 En 1980, il y avait 200 000 voitures à Istanbul.
 
 469
-00:45:36,600 --> 00:45:40,840
+00:45:28,000 --> 00:45:32,240
 Aujourd’hui, il y en a quasiment 2 million.
 
 470
-00:45:42,600 --> 00:45:47,400
+00:45:34,000 --> 00:45:38,800
 La part du transport public est passé
 
 471
-00:45:47,920 --> 00:45:52,160
+00:45:39,320 --> 00:45:43,560
 de 60 % en 1996 à 47 % en 2006.
 
 472
-00:45:54,000 --> 00:45:57,880
+00:45:45,400 --> 00:45:49,280
 Rien qu’en 2009, il y a eu plus d’un million
 
 473
-00:45:58,240 --> 00:46:03,560
+00:45:49,640 --> 00:45:54,960
 d’accidents de voiture en Turquie -
 plus de 6 fois la moyenne européenne.
 
 474
-00:46:05,600 --> 00:46:11,240
+00:45:57,000 --> 00:46:02,640
 Ces accidents ont tué 4 300 personnes
 
 475
-00:46:11,560 --> 00:46:15,160
+00:46:02,960 --> 00:46:06,560
 et en ont blessé 200 000.
 
 476
-00:46:17,280 --> 00:46:22,080
+00:46:08,680 --> 00:46:13,480
 À Istanbul, les émissions de CO2
 dues au transport automobile
 
 477
-00:46:22,600 --> 00:46:26,840
+00:46:14,000 --> 00:46:18,240
 ont augmenté de 37 %
 entre 1990 et 2007.
 
 478
-00:46:28,600 --> 00:46:33,400
+00:46:20,000 --> 00:46:24,800
 Le temps moyen de transport
 par véhicule est passé
 
 479
-00:46:33,920 --> 00:46:38,160
+00:46:25,320 --> 00:46:29,560
 de 41 minutes en 1996
 à 49 minutes en 2006.
 
 480
-00:46:39,720 --> 00:46:43,080
+00:46:31,120 --> 00:46:34,480
 On estime qu’en 2023,
 
 481
-00:46:43,560 --> 00:46:50,000
+00:46:34,960 --> 00:46:41,400
 4 fois plus de voitures seront présentes
 sur les routes d’Istanbul.
 
 482
-00:46:53,120 --> 00:46:58,520
+00:46:44,520 --> 00:46:49,920
 Ayazma, Istanbul
 Novembre 2008
 
 483
-00:47:00,640 --> 00:47:02,854
+00:46:52,040 --> 00:46:54,254
 Juste après les démolitions,
 d’autres quartiers ont monté
 
 484
-00:47:03,040 --> 00:47:05,662
+00:46:54,440 --> 00:46:57,062
 une tente de solidarité pour Ayazma.
 
 485
-00:47:54,120 --> 00:47:58,480
+00:47:45,520 --> 00:47:49,880
 Le 20 novembre 2008, 7 jours après
 la démolition de leurs maisons,
 
 486
-00:47:58,680 --> 00:48:03,040
+00:47:50,080 --> 00:47:54,440
 les familles d’Ayazma furent invitées
 dans l’émission d’Esra Ceyhan.
 
 487
-00:48:03,880 --> 00:48:07,280
+00:47:55,280 --> 00:47:58,680
 Aziz Yeniay, Maire de Küçükçekmece,
 est au téléphone.
 
 488
-00:48:07,760 --> 00:48:10,372
+00:47:59,160 --> 00:48:01,772
 M. le Maire, certaines personnes ici
 aimeraient vous faire part
 
 489
-00:48:10,499 --> 00:48:12,091
+00:48:01,899 --> 00:48:03,491
 de leurs objections concernant les
 politiques municipales.
 
 490
-00:48:12,420 --> 00:48:14,433
+00:48:03,820 --> 00:48:05,833
 Merci de bien écouter.
 
 491
-00:48:15,760 --> 00:48:22,000
+00:48:07,160 --> 00:48:13,400
 J’ai beau être propriétaire, je souffre.
 Je vis dans une tente avec mes enfants.
 
 492
-00:48:22,280 --> 00:48:27,120
+00:48:13,680 --> 00:48:18,520
 Il y a 15 familles comme moi. Ce sont
 des propriétaires, pas des locataires.
 
 493
-00:48:27,400 --> 00:48:29,964
+00:48:18,800 --> 00:48:21,364
 Le Maire peut-il me dire pourquoi nous
 vivons toujours dans des tentes,
 
 494
-00:48:30,150 --> 00:48:33,174
+00:48:21,550 --> 00:48:24,574
 s’il a donné des maisons à tout le monde ?
 
 495
-00:48:34,000 --> 00:48:36,960
+00:48:25,400 --> 00:48:28,360
 Il devrait venir et voir tout ça
 de ses propres yeux.
 
 496
-00:48:37,200 --> 00:48:40,560
+00:48:28,600 --> 00:48:31,960
 Pourquoi démolit-il sans cesse
 nos maisons ?
 
 497
-00:48:40,960 --> 00:48:43,520
+00:48:32,360 --> 00:48:34,920
 — M. le Maire, vous êtes à l’écoute ?
 — Oui !
 
 498
-00:48:44,120 --> 00:48:47,560
+00:48:35,520 --> 00:48:38,960
 Ce sont nos enfants, notre futur.
 
 499
-00:48:48,000 --> 00:48:51,160
+00:48:39,400 --> 00:48:42,560
 Ils ne devraient pas être utilisés
 pour faire de la propagande.
 
 500
-00:48:51,440 --> 00:48:53,440
+00:48:42,840 --> 00:48:44,840
 Ce sont nos enfants.
 
 501
-00:48:53,720 --> 00:48:58,640
+00:48:45,120 --> 00:48:50,040
 Je le dis très clairement pour que
 toutes les victimes l’entendent :
 
 502
-00:48:59,080 --> 00:49:01,800
+00:48:50,480 --> 00:48:53,200
 trouvez un appartement
 et je payerai le loyer.
 
 503
-00:49:02,080 --> 00:49:04,400
+00:48:53,480 --> 00:48:55,800
 — M. le Maire, s’il vous plait,
 
 504
-00:49:04,680 --> 00:49:10,880
+00:48:56,080 --> 00:49:02,280
 je ne veux pas parler politique.
 C’est votre domaine.
 
 505
-00:49:11,160 --> 00:49:13,840
+00:49:02,560 --> 00:49:05,240
 — Ils auront un appartement pour un an.
 
 506
-00:49:14,120 --> 00:49:16,560
+00:49:05,520 --> 00:49:07,960
 Ensuite, ils auront leurs maisons.
 
 507
-00:49:17,320 --> 00:49:20,920
+00:49:08,720 --> 00:49:12,320
 Je promets de payer le loyer pour un an.
 
 508
-00:49:21,200 --> 00:49:24,400
+00:49:12,600 --> 00:49:15,800
 Ensuite, ils déménageront dans
 de nouveaux appartements.
 
 509
-00:49:24,680 --> 00:49:26,600
+00:49:16,080 --> 00:49:18,000
 — C’est une très bonne nouvelle !
 
 510
-00:49:26,880 --> 00:49:28,480
+00:49:18,280 --> 00:49:19,880
 Applaudissons !
 
 511
-00:49:29,840 --> 00:49:36,120
+00:49:21,240 --> 00:49:27,520
 1 an plus tard,
 décembre 2009
 
 512
-00:49:36,280 --> 00:49:37,720
+00:49:27,680 --> 00:49:29,120
 MAIRIE
 
 513
-00:49:38,000 --> 00:49:41,800
+00:49:29,400 --> 00:49:33,200
 Le Maire a payé notre loyer pendant un an.
 
 514
-00:49:42,320 --> 00:49:45,341
+00:49:33,720 --> 00:49:36,741
 Il a dit : « Après un an,
 nous vous attribuerons
 
 515
-00:49:45,542 --> 00:49:47,857
+00:49:36,942 --> 00:49:39,257
 de nouveaux appartements à Kayabaşı. »
 
 516
-00:49:48,600 --> 00:49:50,760
+00:49:40,000 --> 00:49:42,160
 L’année est passée.
 
 517
-00:49:51,240 --> 00:49:54,720
+00:49:42,640 --> 00:49:46,120
 Nous sommes ici aujourd’hui
 pour rencontrer le Maire,
 
 518
-00:49:55,000 --> 00:49:58,760
+00:49:46,400 --> 00:49:50,160
 en espérant qu’il tienne ses promesses.
 
 519
-00:49:59,400 --> 00:50:03,080
+00:49:50,800 --> 00:49:54,480
 Aujourd’hui, nous espérons
 rencontrer le Maire,
 
 520
-00:50:03,360 --> 00:50:05,280
+00:49:54,760 --> 00:49:56,680
 et à partir de lundi,
 
 521
-00:50:05,560 --> 00:50:09,120
+00:49:56,960 --> 00:50:00,520
 nous attendrons les bonnes nouvelles
 
 522
-00:50:09,520 --> 00:50:11,680
+00:50:00,920 --> 00:50:03,080
 devant les bureaux de la Mairie.
 
 523
-00:50:12,080 --> 00:50:14,394
+00:50:03,480 --> 00:50:05,794
 Nous vous demandons votre
 soutien continu
 
 524
-00:50:14,642 --> 00:50:17,670
+00:50:06,042 --> 00:50:09,070
 jusqu’à ce que les promesses soient tenues.
 
 525
-00:50:18,240 --> 00:50:21,080
+00:50:09,640 --> 00:50:12,480
 Ayazma's aggrieved families.
 
 526
-00:50:21,360 --> 00:50:23,480
+00:50:12,760 --> 00:50:14,880
 Merci à tous !
 
 527
-00:50:26,600 --> 00:50:31,840
+00:50:18,000 --> 00:50:23,240
 Le 22 février 2010, TOKI
 invite les 18 familles
 
 528
-00:50:32,160 --> 00:50:36,000
+00:50:23,560 --> 00:50:27,400
 à consulter les plans de leurs
 nouveaux appartements.
 
 529
-00:50:38,840 --> 00:50:40,800
+00:50:30,240 --> 00:50:32,200
 OK, à tout à l’heure.
 
 530
-00:51:18,880 --> 00:51:21,000
+00:51:10,280 --> 00:51:12,400
 Kasım Aydın!
 
 531
-00:51:37,800 --> 00:51:39,480
+00:51:29,200 --> 00:51:30,880
 B-38.
 
 532
-00:51:40,160 --> 00:51:42,160
+00:51:31,560 --> 00:51:33,560
 Premier étage, appartement 10.
 
 533
-00:51:46,160 --> 00:51:48,661
+00:51:37,560 --> 00:51:40,061
 Vous ne le voyez pas encore, mais
 nous sommes en train de construire
 
 534
-00:51:48,687 --> 00:51:50,534
+00:51:40,087 --> 00:51:41,934
 un centre de santé.
 
 535
-00:51:56,360 --> 00:51:59,880
+00:51:47,760 --> 00:51:51,280
 Vous trouverez vos appartements
 juste derrière les bureaux de TOKI.
 
 536
-00:52:01,800 --> 00:52:06,440
+00:51:53,200 --> 00:51:57,840
 On a entendu dire qu’ils veulent
 un acompte de 15 000 TL (5 500 €).
 
 537
-00:52:06,720 --> 00:52:09,560
+00:51:58,120 --> 00:52:00,960
 On ne peut vraiment pas se le permettre.
 
 538
-00:52:10,440 --> 00:52:14,080
+00:52:01,840 --> 00:52:05,480
 Seuls quelques uns d’entre nous
 ont du travail, et c’est au taux minimum.
 
 539
-00:52:15,520 --> 00:52:19,360
+00:52:06,920 --> 00:52:10,760
 Il y a des familles avec 6 ou 7 enfants,
 parfois 10.
 
 540
-00:52:21,840 --> 00:52:24,960
+00:52:13,240 --> 00:52:16,360
 Si on avait de l’argent comme ça,
 
 541
-00:52:25,720 --> 00:52:31,200
+00:52:17,120 --> 00:52:22,600
 on n’aurait pas vécu dans des tentes
 pendant les 3 dernières années.
 
 542
-00:52:33,160 --> 00:52:35,640
+00:52:24,560 --> 00:52:27,040
 CHANTIER TOKI DE CONSTRUCTION DE
 LOGEMENTS SOCIAUX, KAYABAŞI
 
 543
-00:52:36,000 --> 00:52:39,360
+00:52:27,400 --> 00:52:30,760
 B-38...
 — Non, c’est dans un autre secteur.
 
 544
-00:52:40,080 --> 00:52:41,920
+00:52:31,480 --> 00:52:33,320
 Peut-être par là-bas.
 
 545
-00:52:44,640 --> 00:52:46,000
+00:52:36,040 --> 00:52:37,400
 Le secteur 6 est ici,
 
 546
-00:52:46,280 --> 00:52:47,640
+00:52:37,680 --> 00:52:39,040
 et le secteur 16 là-bas.
 
 547
-00:52:48,160 --> 00:52:50,320
+00:52:39,560 --> 00:52:41,720
 C’est toujours en construction.
 
 548
-00:52:50,800 --> 00:52:53,440
+00:52:42,200 --> 00:52:44,840
 C’est interdit d’entrer dans
 la zone de travaux.
 
 549
-00:52:54,040 --> 00:52:54,920
+00:52:45,440 --> 00:52:46,320
 C’est tout !
 
 550
-00:52:55,240 --> 00:52:58,440
+00:52:46,640 --> 00:52:49,840
 Vous savez quand nous pourrons
 nous installer ?
 
 551
-00:52:58,720 --> 00:53:00,280
+00:52:50,120 --> 00:52:51,680
 Non, demandez au bureau.
 
 552
-00:53:00,560 --> 00:53:02,600
+00:52:51,960 --> 00:52:54,000
 Mais ils m’ont envoyé ici.
 
 553
-00:53:05,760 --> 00:53:07,680
+00:52:57,160 --> 00:52:59,080
 En termes de transports,
 
 554
-00:53:07,960 --> 00:53:09,880
+00:52:59,360 --> 00:53:01,280
 c’est peut-être un peu plus loin,
 
 555
-00:53:10,160 --> 00:53:12,080
+00:53:01,560 --> 00:53:03,480
 mais ce n’est pas un problème.
 
 556
-00:53:14,360 --> 00:53:17,080
+00:53:05,760 --> 00:53:08,480
 Le métro va arriver ici un jour.
 
 557
-00:53:19,200 --> 00:53:24,840
+00:53:10,600 --> 00:53:16,240
 On a besoin d’un endroit confortable.
 
 558
-00:53:25,560 --> 00:53:27,680
+00:53:16,960 --> 00:53:19,080
 Ce n’est pas confortable ici.
 
 559
-00:53:29,920 --> 00:53:33,280
+00:53:21,320 --> 00:53:24,680
 Pourquoi est-ce que c’est si cher pour un appartement minuscule ?
 
 560
-00:53:34,760 --> 00:53:36,600
+00:53:26,160 --> 00:53:28,000
 Les versements sont trop élevés.
 
 561
-00:53:36,880 --> 00:53:40,280
+00:53:28,280 --> 00:53:31,680
 Il faut qu’on en discuter avec nos amis.
 
 562
-00:53:40,560 --> 00:53:43,080
+00:53:31,960 --> 00:53:34,480
 On ne peut pas garder ça pour nous.
 
 563
-00:53:56,320 --> 00:54:09,240
+00:53:47,720 --> 00:54:00,640
 CHAPITRE 4 :
 LE MODÈLE DE LOGEMENT (ANTI)SOCIAL
 
 564
-00:54:13,400 --> 00:54:15,440
+00:54:04,800 --> 00:54:06,840
 <i>350 000 APPARTEMENTS RÉCENTS</i>
 
 565
-00:54:16,200 --> 00:54:21,960
+00:54:07,600 --> 00:54:13,360
 À l’occasion du bouquet final à Lohbrügge,
 le Dr. Nevermann, Maire de Hambourg, dit :
 
 566
-00:54:23,000 --> 00:54:24,280
+00:54:14,400 --> 00:54:15,680
 « Voici,
 
 567
-00:54:24,560 --> 00:54:26,520
+00:54:15,960 --> 00:54:17,920
 Mesdames et Messieurs,
 
 568
-00:54:26,920 --> 00:54:28,760
+00:54:18,320 --> 00:54:20,160
 un nouvel exemple
 
 569
-00:54:29,040 --> 00:54:31,000
+00:54:20,440 --> 00:54:22,400
 de coopération
 
 570
-00:54:31,360 --> 00:54:36,120
+00:54:22,760 --> 00:54:27,520
 non seulement au sein d’un consortium,
 
 571
-00:54:37,000 --> 00:54:39,360
+00:54:28,400 --> 00:54:30,760
 mais aussi un bel exemple
 
 572
-00:54:40,120 --> 00:54:42,440
+00:54:31,520 --> 00:54:33,840
 de la nouvelle vie urbaine.
 
 573
-00:54:43,560 --> 00:54:46,741
+00:54:34,960 --> 00:54:38,141
 Des maisons de propriétaires,
 des logements de plain-pied
 
 574
-00:54:46,977 --> 00:54:48,750
+00:54:38,377 --> 00:54:40,150
 et des bâtiments à plusieurs étages,
 
 575
-00:54:49,000 --> 00:54:53,600
+00:54:40,400 --> 00:54:45,000
 qui s'harmonisent les uns aux autres ».
 
 576
-00:54:56,480 --> 00:54:59,218
+00:54:47,880 --> 00:54:50,618
 Depuis la Seconde Guerre Mondiale,
 ou plutôt depuis le « New Deal »
 
 577
-00:54:59,424 --> 00:55:01,738
+00:54:50,824 --> 00:54:53,138
 avec les États-Unis,
 
 578
-00:55:01,920 --> 00:55:05,720
+00:54:53,320 --> 00:54:57,120
 le modèle de l’accumulation
 capitaliste était basé
 
 579
-00:55:06,240 --> 00:55:08,760
+00:54:57,640 --> 00:55:00,160
 sur la production et la
 consommation de masse.
 
 580
-00:55:08,920 --> 00:55:13,320
+00:55:00,320 --> 00:55:04,720
 Knut Unger - Association des
 locataires de Witten, Allemagne
 
 581
-00:55:13,600 --> 00:55:15,910
+00:55:05,000 --> 00:55:07,310
 Ce moteur de croissance a fonctionné
 durant de nombreuses décennies,
 
 582
-00:55:16,013 --> 00:55:18,226
+00:55:07,413 --> 00:55:09,626
 et entre autres choses,
 
 583
-00:55:18,280 --> 00:55:21,560
+00:55:09,680 --> 00:55:12,960
 a permis l’apparition
 d’État européens prospères.
 
 584
-00:55:26,040 --> 00:55:30,800
+00:55:17,440 --> 00:55:22,200
 Pour limiter les coûts de la force de travail
 et pour lui fournir des logements,
 
 585
-00:55:31,080 --> 00:55:34,160
+00:55:22,480 --> 00:55:25,560
 la construction de logements à grande
 échelle a été inventée.
 
 586
-00:55:36,120 --> 00:55:41,360
+00:55:27,520 --> 00:55:32,760
 Ce schéma du logement social a créé
 des zones résidentielles
 
 587
-00:55:41,640 --> 00:55:45,720
+00:55:33,040 --> 00:55:37,120
 séparées des autres aspects de la vie,
 comme les loisirs,
 
 588
-00:55:46,120 --> 00:55:50,240
+00:55:37,520 --> 00:55:41,640
 le travail ou la consommation,
 
 589
-00:55:50,520 --> 00:55:54,320
+00:55:41,920 --> 00:55:45,720
 d’une manière jusqu’ici inédite.
 
 590
-00:55:57,120 --> 00:56:00,519
+00:55:48,520 --> 00:55:51,919
 On ne peut pas régler le
 problème des gecekondus
 
 591
-00:56:00,623 --> 00:56:02,496
+00:55:52,023 --> 00:55:53,896
 en construisant des immeubles
 de mauvaise qualité.
 
 592
-00:56:02,520 --> 00:56:05,415
+00:55:53,920 --> 00:55:56,815
 S’il y a un problème avec les gecekondus,
 ce n’est pas un problème de bâtiments,
 
 593
-00:56:05,520 --> 00:56:08,045
+00:55:56,920 --> 00:55:59,445
 c’est peut-être un problème social -
 et encore.
 
 594
-00:56:08,295 --> 00:56:09,795
+00:55:59,695 --> 00:56:01,195
 Hatice Kurtuluş - sociologue
 Université d'Istanbul
 
 595
-00:56:13,560 --> 00:56:19,000
+00:56:04,960 --> 00:56:10,400
 Comment peut-on imaginer que ce modèle
 ne va pas créer les mêmes problèmes ici ?
 
 596
-00:56:23,600 --> 00:56:26,760
+00:56:15,000 --> 00:56:18,160
 À partir du début des années 1970
 au plus tard,
 
 597
-00:56:27,040 --> 00:56:31,160
+00:56:18,440 --> 00:56:22,560
 ce modèle était de plus en plus critiqué
 
 598
-00:56:31,640 --> 00:56:33,928
+00:56:23,040 --> 00:56:25,328
 parce qu’il représentait des conditions
 de logement inhumaines,
 
 599
-00:56:34,118 --> 00:56:37,141
+00:56:25,518 --> 00:56:28,541
 et n’encourageait pas les relations sociales.
 
 600
-00:56:48,720 --> 00:56:53,240
+00:56:40,120 --> 00:56:44,640
 La Banque de logement turque a été
 fermée et remplacée par TOKI.
 
 601
-00:56:53,640 --> 00:56:59,600
+00:56:45,040 --> 00:56:51,000
 Le Bureau Foncier Turc a été fermé
 et remplacé par TOKI, en 2004.
 
 602
-00:57:00,040 --> 00:57:02,480
+00:56:51,440 --> 00:56:53,880
 Et les règles de TOKI ont changé.
 
 603
-00:57:03,160 --> 00:57:06,560
+00:56:54,560 --> 00:56:57,960
 C’est devenu une entreprise à but lucratif.
 
 604
-00:57:08,680 --> 00:57:11,698
+00:57:00,080 --> 00:57:03,098
 Plus important encore, TOKI
 est maintenant autorisé
 
 605
-00:57:11,863 --> 00:57:13,776
+00:57:03,263 --> 00:57:05,176
 à gérer son propre aménagement.
 
 606
-00:57:14,440 --> 00:57:17,920
+00:57:05,840 --> 00:57:09,320
 TOKI peut gérer des projets
 de transformations de gecekondus,
 
 607
-00:57:18,680 --> 00:57:22,760
+00:57:10,080 --> 00:57:14,160
 des projets de renouvellements
 post tremblements de terre,
 
 608
-00:57:23,040 --> 00:57:25,480
+00:57:14,440 --> 00:57:16,880
 des projets de transformation urbaine...
 
 609
-00:57:26,120 --> 00:57:32,120
+00:57:17,520 --> 00:57:23,520
 TOKI est devenu un empire immense,
 un monopole virtuel.
 
 610
-00:57:35,024 --> 00:57:40,460
+00:57:26,424 --> 00:57:31,860
 Voilà ce qui est proposé :
 des immeubles locatifs, concentrés,
 
 611
-00:57:40,845 --> 00:57:43,569
+00:57:32,245 --> 00:57:34,969
 isolés et éloignés des sources d’emploi,
 
 612
-00:57:43,977 --> 00:57:47,614
+00:57:35,377 --> 00:57:39,014
 ou rien ou à peine n’est
 proposé aux enfants.
 
 613
-00:57:47,882 --> 00:57:49,593
+00:57:39,282 --> 00:57:40,993
 Ce modèle a échoué.
 
 614
-00:57:50,016 --> 00:57:55,157
+00:57:41,416 --> 00:57:46,557
 C’est le modèle qui s’est construit
 dans tous les pays de l’OCDE,
 
 615
-00:57:55,244 --> 00:57:57,361
+00:57:46,644 --> 00:57:48,761
 et qui est aujourd’hui en cours de destruction.
 
 616
-00:57:57,671 --> 00:57:59,687
+00:57:49,071 --> 00:57:51,087
 Parce que ce n’est pas une bonne solution.
 
 617
-00:58:00,421 --> 00:58:03,847
+00:57:51,821 --> 00:57:55,247
 Alors oui, je prédis que dans
 une vingtaine d’années au plus tard,
 
 618
-00:58:04,246 --> 00:58:08,568
+00:57:55,646 --> 00:57:59,968
 cette concentration d’immeubles TOKI
 
 619
-00:58:08,941 --> 00:58:12,870
+00:58:00,341 --> 00:58:04,270
 va créer de sérieux problèmes
 pour Istanbul,
 
 620
-00:58:12,774 --> 00:58:15,795
+00:58:04,174 --> 00:58:07,195
 et je pense qu’un jour,
 tout va devoir être détruit.
 
 621
-00:58:16,075 --> 00:58:18,793
+00:58:07,475 --> 00:58:10,193
 Comme ça arrive aujourd’hui
 dans de nombreuses villes.
 
 622
-00:58:19,412 --> 00:58:22,934
+00:58:10,812 --> 00:58:14,334
 Au prix fort, socialement
 et économiquement.
 
 623
-00:58:45,338 --> 00:58:47,451
+00:58:36,738 --> 00:58:38,851
 Les négociations qui ont été
 menées jusque là,
 
 624
-00:58:47,703 --> 00:58:51,731
+00:58:39,103 --> 00:58:43,131
 pour être à l’intérieur du système,
 
 625
-00:58:51,879 --> 00:58:55,500
+00:58:43,279 --> 00:58:46,900
 sont le cadre idéal pour
 expulser les habitants.
 
 626
-00:58:55,813 --> 00:59:00,441
+00:58:47,213 --> 00:58:51,841
 Donc par rapport aux expulsions, ce n’est
 pas forcément la meilleure approche.
 
 627
-00:59:00,615 --> 00:59:03,735
+00:58:52,015 --> 00:58:55,135
 Parce que le résultat, c’est que ça
 devient beaucoup plus facile
 
 628
-00:59:03,931 --> 00:59:07,656
+00:58:55,331 --> 00:58:59,056
 de dégager les habitants des espaces
 que convoite le gouvernement.
 
 629
-00:59:07,948 --> 00:59:10,062
+00:58:59,348 --> 00:59:01,462
 C’est Sulukule, c’est Ayazma.
 
 630
-00:59:10,003 --> 00:59:14,367
+00:59:01,403 --> 00:59:05,767
 Ayazma, c’est un terrain libre pour TOKI.
 
 631
-00:59:14,871 --> 00:59:17,604
+00:59:06,271 --> 00:59:09,004
 La négociation des relogements,
 c’est autre chose.
 
 632
-00:59:17,940 --> 00:59:23,171
+00:59:09,340 --> 00:59:14,571
 Mais la réalité, c’est qu’il y avait
 du monde qui vivait ici,
 
 633
-00:59:23,686 --> 00:59:25,395
+00:59:15,086 --> 00:59:16,795
 et qu’aujourd’hui, il n’y a plus personne.
 
 634
-00:59:25,498 --> 00:59:27,738
+00:59:16,898 --> 00:59:19,138
 C’est la dure réalité.
 
 635
-00:59:31,245 --> 00:59:34,563
+00:59:22,645 --> 00:59:25,963
 Je suis très content de vous revoir !
 On s'est déjà rencontrés...
 
 636
-00:59:37,280 --> 00:59:39,160
+00:59:28,680 --> 00:59:30,560
 Oui, je me souviens moi aussi.
 
 637
-00:59:39,800 --> 00:59:41,480
+00:59:31,200 --> 00:59:32,880
 À l’époque de la tente, à Ayazma.
 
 638
-00:59:45,000 --> 00:59:47,040
+00:59:36,400 --> 00:59:38,440
 Dans le cadre de notre projet à Ayazma,
 
 639
-00:59:48,120 --> 00:59:53,600
+00:59:39,520 --> 00:59:45,000
 TOKI a relogé plus de 1000 familles
 et elles sont toutes très heureuses,
 
 640
-00:59:54,160 --> 00:59:58,040
+00:59:45,560 --> 00:59:49,440
 sauf une quinzaine
 
 641
-00:59:59,040 --> 01:00:04,040
+00:59:50,440 --> 00:59:55,440
 qui ne sont pas contentes de ce qu’elles ont.
 
 642
-01:00:04,360 --> 01:00:08,840
+00:59:55,760 --> 01:00:00,240
 On ne peut pas faire des heureux partout.
 
 643
-01:00:09,240 --> 01:00:12,000
+01:00:00,640 --> 01:00:03,400
 Parlons un peu de Bezirganbahçe.
 
 644
-01:00:12,280 --> 01:00:15,000
+01:00:03,680 --> 01:00:06,400
 Tout le monde n’est pas content,
 là-bas non plus.
 
 645
-01:00:15,280 --> 01:00:16,840
+01:00:06,680 --> 01:00:08,240
 C’est où, Bezirganbahçe ?
 
 646
-01:00:19,440 --> 01:00:22,360
+01:00:10,840 --> 01:00:13,760
 Les habitants d’Ayazma
 
 647
-01:00:22,760 --> 01:00:25,320
+01:00:14,160 --> 01:00:16,720
 déplacés à Bezirganbahçe par TOKI
 
 648
-01:00:25,600 --> 01:00:27,520
+01:00:17,000 --> 01:00:18,920
 se plaignent.
 
 649
-01:00:27,840 --> 01:00:29,640
+01:00:19,240 --> 01:00:21,040
 À VENDRE
 
 650
-01:00:33,200 --> 01:00:38,000
+01:00:24,600 --> 01:00:29,400
 Les habitants ont rencontré
 des officiels de l’ONU
 
 651
-01:00:38,560 --> 01:00:43,160
+01:00:29,960 --> 01:00:34,560
 pour leur faire part de leurs récriminations.
 
 652
-01:00:43,800 --> 01:00:46,920
+01:00:35,200 --> 01:00:38,320
 Ils ont dit que je devrais payer
 24000 TL (8800 €),
 
 653
-01:00:47,200 --> 01:00:50,040
+01:00:38,600 --> 01:00:41,440
 et maintenant j’ai 41000 TL
 (15000 €) de dettes.
 
 654
-01:00:50,440 --> 01:00:55,280
+01:00:41,840 --> 01:00:46,680
 Je suis seule et je ne peux pas payer.
 Je n’en ai pas la force.
 
 655
-01:00:56,560 --> 01:00:58,040
+01:00:47,960 --> 01:00:49,440
 Je suis diabétique,
 
 656
-01:00:58,400 --> 01:01:00,480
+01:00:49,800 --> 01:00:51,880
 j’ai de l’hypertension artérielle,
 
 657
-01:01:00,760 --> 01:01:04,578
+01:00:52,160 --> 01:00:55,978
 je ne peux pas trouver de travail
 et il me reste 3 ans avant la retraite.
 
 658
-01:01:04,754 --> 01:01:06,378
+01:00:56,154 --> 01:00:57,778
 Je ne peux pas travailler !
 
 659
-01:01:06,400 --> 01:01:10,640
+01:00:57,800 --> 01:01:02,040
 Va-t-on devenir Européens
 
 660
-01:01:10,920 --> 01:01:14,000
+01:01:02,320 --> 01:01:05,400
 en oppressant les pauvres ?
 
 661
-01:01:15,040 --> 01:01:18,440
+01:01:06,440 --> 01:01:09,840
 Ils nous ont dit que nous allions déménager
 
 662
-01:01:18,720 --> 01:01:22,080
+01:01:10,120 --> 01:01:13,480
 dans un endroit plus sain,
 dans un meilleur endroit,
 
 663
-01:01:22,480 --> 01:01:24,200
+01:01:13,880 --> 01:01:15,600
 et puis ils nous amené là.
 
 664
-01:01:24,600 --> 01:01:26,840
+01:01:16,000 --> 01:01:18,240
 Ayazma c’était bien mieux !
 
 665
-01:01:28,160 --> 01:01:33,440
+01:01:19,560 --> 01:01:24,840
 Les égoûts passent juste
 devant mon balcon.
 
 666
-01:01:33,720 --> 01:01:38,680
+01:01:25,120 --> 01:01:30,080
 Je ne peux pas ouvrir ma fenêtre
 à cause de l’odeur.
 
 667
-01:01:39,976 --> 01:01:43,303
+01:01:31,376 --> 01:01:34,703
 Si vous vous battez chacun de votre côté,
 vous ne réglerez aucun problème.
 
 668
-01:01:47,376 --> 01:01:53,414
+01:01:38,776 --> 01:01:44,814
 Mais si vous agissez collectivement, vous
 réglerez non seulement ce problème-là,
 
 669
-01:01:53,676 --> 01:01:57,503
+01:01:45,076 --> 01:01:48,903
 mais aussi les problèmes de vos enfants
 et beaucoup d’autres.
 
 670
-01:02:23,680 --> 01:02:28,080
+01:02:15,080 --> 01:02:19,480
 Si le concept de « ville globale »
 
 671
-01:02:28,480 --> 01:02:31,960
+01:02:19,880 --> 01:02:23,360
 sous-entend l’apparition de
 nouvelles inégalités sociales,
 
 672
-01:02:32,520 --> 01:02:35,600
+01:02:23,920 --> 01:02:27,000
 et bien nous devons nous opposer à ce concept.
 
 673
-01:02:47,080 --> 01:02:51,080
+01:02:38,480 --> 01:02:42,480
 TOKI ordonne nos villes
 en fonction des classes sociales.
 
 674
-01:02:58,000 --> 01:03:01,240
+01:02:49,400 --> 01:02:52,640
 Mais ces villes divisées
 reviendront nous hanter :
 
 675
-01:03:01,960 --> 01:03:04,120
+01:02:53,360 --> 01:02:55,520
 dans le futur,
 
 676
-01:03:04,400 --> 01:03:09,440
+01:02:55,800 --> 01:03:00,840
 de nouveaux projets de renouvellement
 urbain apparaîtront pour ces endroits.
 
 677
-01:03:12,560 --> 01:03:17,960
+01:03:03,960 --> 01:03:09,360
 Si ces politiques éloignent encore
 plus les riches des pauvres,
 
 678
-01:03:18,240 --> 01:03:20,440
+01:03:09,640 --> 01:03:11,840
 aussi bien socialement que physiquement,
 
 679
-01:03:20,720 --> 01:03:24,280
+01:03:12,120 --> 01:03:15,680
 de telle manière que l’interaction
 entre classes
 
 680
-01:03:24,560 --> 01:03:27,760
+01:03:15,960 --> 01:03:19,160
 devient presque impossible,
 
 681
-01:03:28,040 --> 01:03:32,920
+01:03:19,440 --> 01:03:24,320
 alors nous devrions revoir ces politiques.
 
 682
-01:03:53,760 --> 01:03:56,440
+01:03:45,160 --> 01:03:47,840
 Si ceux qui vivent dans des
 résidences fermées
 
 683
-01:03:56,840 --> 01:04:01,680
+01:03:48,240 --> 01:03:53,080
 n’ont plus aucune interaction avec
 la classe moyenne ou avec les ouvriers,
 
 684
-01:04:02,320 --> 01:04:04,880
+01:03:53,720 --> 01:03:56,280
 s’ils se mettent même à avoir
 peur de leur femme de ménage,
 
 685
-01:04:05,280 --> 01:04:08,394
+01:03:56,680 --> 01:03:59,794
 ils finiront par les voir comme
 des étrangers complets.
 
 686
-01:04:08,528 --> 01:04:10,747
+01:03:59,928 --> 01:04:02,147
 C’est extrêmement dangereux.
 
 687
-01:04:11,440 --> 01:04:16,960
+01:04:02,840 --> 01:04:08,360
 Mais le contraire est également possible,
 et encore plus dangereux :
 
 688
-01:04:17,360 --> 01:04:22,000
+01:04:08,760 --> 01:04:13,400
 les pauvres pourraient se mettre à voir
 les riches comme des étrangers à leur tour.
 
 689
-01:04:22,760 --> 01:04:25,000
+01:04:14,160 --> 01:04:16,400
 Le risque serait alors encore plus grand.
 
 690
-01:04:25,560 --> 01:04:30,000
+01:04:16,960 --> 01:04:21,400
 Nous savons que ces menaces
 grandissent partout dans le monde.
 
 691
-01:04:30,280 --> 01:04:34,360
+01:04:21,680 --> 01:04:25,760
 Pour lutter contre elles,
 des politiques apparaissent
 
 692
-01:04:34,640 --> 01:04:37,559
+01:04:26,040 --> 01:04:28,959
 qui cherchent à créer des divisions
 religieuses et ethniques
 
 693
-01:04:37,847 --> 01:04:40,069
+01:04:29,247 --> 01:04:31,469
 dans la lutte des classes.
 
 694
-01:04:43,480 --> 01:04:47,800
+01:04:34,880 --> 01:04:39,200
 Dans le cas d’Istanbul, l’exemple
 le plus évident est Sulukule.
 
 695
-01:04:48,600 --> 01:04:53,560
+01:04:40,000 --> 01:04:44,960
 Si le projet de rénovation de Sulukule
 expulse hors de la ville
 
 696
-01:04:53,840 --> 01:04:58,920
+01:04:45,240 --> 01:04:50,320
 ceux qui y ont vécu pendant des générations,
 
 697
-01:04:59,320 --> 01:05:02,360
+01:04:50,720 --> 01:04:53,760
 nous avons un gros problème.
 
 698
-01:05:02,920 --> 01:05:07,400
+01:04:54,320 --> 01:04:58,800
 D’où vient ce problème ?
 Oui, du concept de la « ville globale ».
 
 699
-01:05:07,680 --> 01:05:09,400
+01:04:59,080 --> 01:05:00,800
 Et qui est derrière ce concept ?
 
 700
-01:05:09,800 --> 01:05:14,880
+01:05:01,200 --> 01:05:06,280
 Des acteurs globaux qui cherchent
 un endroit où investir.
 
 701
-01:05:15,320 --> 01:05:18,541
+01:05:06,720 --> 01:05:09,941
 Comment ça se traduit concrètement ?
 Par de nouvelles villas,
 
 702
-01:05:18,778 --> 01:05:19,772
+01:05:10,178 --> 01:05:11,172
 et de nouveaux propriétaires.
 
 703
-01:05:20,840 --> 01:05:22,720
+01:05:12,240 --> 01:05:14,120
 Est-ce un problème ? Oui.
 
 704
-01:05:23,000 --> 01:05:26,820
+01:05:14,400 --> 01:05:18,220
 Parce qu’une ville, c’est là où
 peuvent vivre les pauvres,
 
 705
-01:05:27,033 --> 01:05:28,544
+01:05:18,433 --> 01:05:19,944
 où peuvent vivre différentes cultures.
 
 706
-01:05:28,753 --> 01:05:30,364
+01:05:20,153 --> 01:05:21,764
 C’est ce qui définit la ville.
 
 707
-01:05:49,520 --> 01:05:53,200
+01:05:40,920 --> 01:05:44,600
 S’il y a une chose que nous savons
 dans notre ignorance,
 
 708
-01:05:53,800 --> 01:05:59,600
+01:05:45,200 --> 01:05:51,000
 c’est qu’ils corrompent les riches
 avec des terres dans le centre-ville.
 
 709
-01:05:59,880 --> 01:06:01,360
+01:05:51,280 --> 01:05:52,760
 C’est évident.
 
 710
-01:06:01,640 --> 01:06:04,120
+01:05:53,040 --> 01:05:55,520
 Personne ne peut nier ça.
 
 711
-01:06:04,400 --> 01:06:10,200
+01:05:55,800 --> 01:06:01,600
 Ils dégagent les pauvres
 à 40 ou 80 km d’ici.
 
 712
-01:06:11,240 --> 01:06:14,480
+01:06:02,640 --> 01:06:05,880
 Comment vont-ils survivre ?
 J’en fais partie !
 
 713
-01:06:15,640 --> 01:06:17,360
+01:06:07,040 --> 01:06:08,760
 Je ne sais pas ce qui va se passer.
 
 714
-01:06:25,200 --> 01:06:27,280
+01:06:16,600 --> 01:06:18,680
 Depuis quand vivez-vous ici ?
 
 715
-01:06:27,560 --> 01:06:29,979
+01:06:18,960 --> 01:06:21,379
 J’ai 48 ans. Mes 5 frères et soeurs et moi
 sommes nés et avons grandi ici,
 
 716
-01:06:30,180 --> 01:06:32,900
+01:06:21,580 --> 01:06:24,300
 avec nos ancêtres.
 
 717
-01:06:33,720 --> 01:06:37,160
+01:06:25,120 --> 01:06:28,560
 Le terrain a été acheté il y a 252 ans.
 C’est dans les registres officiels.
 
 718
-01:06:37,760 --> 01:06:39,640
+01:06:29,160 --> 01:06:31,040
 Mais nous ne pouvons pas
 prouver la propriété.
 
 719
-01:06:39,920 --> 01:06:43,038
+01:06:31,320 --> 01:06:34,438
 L’État nous a dit : « Si vous ne pouvez pas
 prouver que c’est votre maison,
 
 720
-01:06:43,228 --> 01:06:45,444
+01:06:34,628 --> 01:06:36,844
 nous allons vous la prendre. »
 Et ils l’ont fait.
 
 721
-01:06:53,280 --> 01:06:55,600
+01:06:44,680 --> 01:06:47,000
 Ils nous ont vendu une maison à Taşoluk.
 
 722
-01:06:56,520 --> 01:06:57,680
+01:06:47,920 --> 01:06:49,080
 Notre dernier paiement
 
 723
-01:06:58,000 --> 01:07:00,520
+01:06:49,400 --> 01:06:51,920
 a 3 jours de retard.
 
 724
-01:07:00,920 --> 01:07:02,720
+01:06:52,320 --> 01:06:54,120
 On n’a pas de travail,
 
 725
-01:07:03,240 --> 01:07:05,080
+01:06:54,640 --> 01:06:56,480
 comment va-t-on payer ?
 
 726
-01:07:05,360 --> 01:07:08,400
+01:06:56,760 --> 01:06:59,800
 On a dépassé la date.
 On va voir ce qui va se passer.
 
 727
-01:07:09,240 --> 01:07:10,920
+01:07:00,640 --> 01:07:02,320
 Les versements sont de combien ?
 - 420 TL (150 €)..
 
 728
-01:07:11,200 --> 01:07:13,000
+01:07:02,600 --> 01:07:04,400
 WELCOME TO GAZA !
 
 729
-01:07:13,280 --> 01:07:15,280
+01:07:04,680 --> 01:07:06,680
 Mais je n’ai même pas 20 TL.
 
 730
-01:07:15,640 --> 01:07:19,200
+01:07:07,040 --> 01:07:10,600
 Je fais la ferraille pour
 nourrir ma famille.
 
 731
-01:07:19,480 --> 01:07:23,800
+01:07:10,880 --> 01:07:15,200
 Est-ce que c’est ce que j’ai toujours fait ?
 Non. J’étais cordonnier.
 
 732
-01:07:24,760 --> 01:07:26,400
+01:07:16,160 --> 01:07:17,800
 Pendant 35 ans.
 
 733
-01:07:26,680 --> 01:07:28,760
+01:07:18,080 --> 01:07:20,160
 Look at my materials.
 
 734
-01:07:29,680 --> 01:07:31,571
+01:07:21,080 --> 01:07:22,971
 Je les ai fait et je les ai
 vendus moi-même.
 
 735
-01:07:31,624 --> 01:07:36,176
+01:07:23,024 --> 01:07:27,576
 Mais les démolitions nous ont
 laissé sans travail.
 
 736
-01:07:37,080 --> 01:07:40,040
+01:07:28,480 --> 01:07:31,440
 Comment allez-vous faire pour
 aller à Taşoluk ? - Je ne sais pas.
 
 737
-01:07:40,320 --> 01:07:41,560
+01:07:31,720 --> 01:07:32,960
 Comment allez-vous survivre ?
 
 738
-01:07:41,840 --> 01:07:44,028
+01:07:33,240 --> 01:07:35,428
 Je ne suis pas tout seul.
 Aucune des personnes
 
 739
-01:07:44,218 --> 01:07:46,254
+01:07:35,618 --> 01:07:37,654
 à se retrouver là-bas
 n’en a aucune idée.
 
 740
-01:07:54,520 --> 01:07:55,920
+01:07:45,920 --> 01:07:47,320
 Que Dieu nous aide.
 
 741
-01:07:56,200 --> 01:07:59,000
+01:07:47,600 --> 01:07:50,400
 Et que Dieu aide ceux qui sont allés là-bas.
 
 742
-01:08:00,360 --> 01:08:02,788
+01:07:51,760 --> 01:07:54,188
 Bien sûr, au départ,
 tout le monde était content.
 
 743
-01:08:02,793 --> 01:08:04,440
+01:07:54,193 --> 01:07:55,840
 On donne des maisons aux pauvres !
 
 744
-01:08:04,600 --> 01:08:09,800
+01:07:56,000 --> 01:08:01,200
 Mais ils ne pourront pas les
 garder 150 ans. C’est vrai.
 
 745
-01:08:11,240 --> 01:08:14,445
+01:08:02,640 --> 01:08:05,845
 30 km aller et 30 km retour,
 ça fait 60 km.
 
 746
-01:08:14,590 --> 01:08:17,610
+01:08:05,990 --> 01:08:09,010
 Pour aller travailler à Taksim
 ou à Dolapdere.
 
 747
-01:08:18,391 --> 01:08:19,821
+01:08:09,791 --> 01:08:11,221
 Ou n’importe où ailleurs...
 
 748
-01:08:20,040 --> 01:08:22,360
+01:08:11,440 --> 01:08:13,760
 Je gagne entre 20 et 30 TL.
 
 749
-01:08:23,360 --> 01:08:27,480
+01:08:14,760 --> 01:08:18,880
 Je prends le métro,
 et retour à la maison !
 
 750
-01:08:28,000 --> 01:08:30,600
+01:08:19,400 --> 01:08:22,000
 Est-ce qu’il va falloir que je
 commencer à manger les murs ?
 
 751
-01:08:30,880 --> 01:08:34,920
+01:08:22,280 --> 01:08:26,320
 Je vais payer un mois ou deux,
 mais le gouvernement
 
 752
-01:08:35,200 --> 01:08:36,720
+01:08:26,600 --> 01:08:28,120
 va finir par me dire de dégager.
 
 753
-01:08:37,000 --> 01:08:43,040
+01:08:28,400 --> 01:08:34,440
 400 TL de loyer, et 400 pour vivre.
 800 TL.
 
 754
-01:08:43,290 --> 01:08:44,790
+01:08:34,690 --> 01:08:36,190
 Où est-ce que je vais gagner ça ?
 
 755
-01:08:55,640 --> 01:08:59,311
+01:08:47,040 --> 01:08:50,711
 330 familles ont été relogées
 à Taşoluk en 2008
 
 756
-01:08:59,472 --> 01:09:02,493
+01:08:50,872 --> 01:08:53,893
 dans le cadre du renouvellement
 urbain de Sulukule.
 
 757
-01:09:04,920 --> 01:09:11,760
+01:08:56,320 --> 01:09:03,160
 La plupart ont essayé de retourner dans
 les environs de leur ancien quartier.
 
 758
-01:09:12,040 --> 01:09:16,400
+01:09:03,440 --> 01:09:07,800
 Aujourd’hui, une seule famille
 est restée à Taşoluk.
 
 759
-01:09:17,120 --> 01:09:30,160
+01:09:08,520 --> 01:09:21,560
 CHAPITRE 5 :
 PLAN, CAPITAL, DÉMOCRATIE
 
 760
-01:09:46,280 --> 01:09:49,440
+01:09:37,680 --> 01:09:40,840
 En 1980, il a été convenu qu’au vu
 de ses contraintes géographique
 
 761
-01:09:50,080 --> 01:09:55,240
+01:09:41,480 --> 01:09:46,640
 Istanbul ne pouvait accueillir
 que 5 millions d’habitants.
 
 762
-01:09:55,760 --> 01:09:59,480
+01:09:47,160 --> 01:09:50,880
 Aujourd’hui, tout le monde dit
 que nous avons atteint 15 millions.
 
 763
-01:09:59,880 --> 01:10:05,720
+01:09:51,280 --> 01:09:57,120
 Il n’y a pas d’institution qui soit en mesure
 de planifier à l’échelle macro,
 
 764
-01:10:06,120 --> 01:10:10,080
+01:09:57,520 --> 01:10:01,480
 ou qui puisse mesurer et
 étudier ces tendances.
 
 765
-01:10:10,360 --> 01:10:16,600
+01:10:01,760 --> 01:10:08,000
 Cependant, ces tendances montrent
 que la population d’Istanbul
 
 766
-01:10:16,880 --> 01:10:22,560
+01:10:08,280 --> 01:10:13,960
 va atteindre 25 à 30 millions
 d’habitants en 2023.
 
 767
-01:10:22,840 --> 01:10:27,240
+01:10:14,240 --> 01:10:18,640
 Et nous savons que le milieu naturel
 ne pourra pas soutenir ça.
 
 768
-01:10:28,000 --> 01:10:31,600
+01:10:19,400 --> 01:10:23,000
 Les limites naturelles ont été dépassées.
 
 769
-01:10:33,120 --> 01:10:36,640
+01:10:24,520 --> 01:10:28,040
 Est-ce qu’une ville globale peut
 être planifiée ? Peut-être.
 
 770
-01:10:36,920 --> 01:10:41,920
+01:10:28,320 --> 01:10:33,320
 Mais est-ce qu’elle peut être planifiée
 à part du reste du pays ?
 
 771
-01:10:42,320 --> 01:10:44,920
+01:10:33,720 --> 01:10:36,320
 C’est là que le problème commence.
 
 772
-01:10:45,600 --> 01:10:51,840
+01:10:37,000 --> 01:10:43,240
 Parce qu'on n'a pas créé d'autre
 territoire avec un tel développement,
 
 773
-01:10:52,640 --> 01:10:55,080
+01:10:44,040 --> 01:10:46,480
 et qu’on ne peut pas
 prévoir les migrations.
 
 774
-01:10:55,920 --> 01:10:58,760
+01:10:47,320 --> 01:10:50,160
 Et si nous ne prévoyons pas
 un peu les migrations,
 
 775
-01:10:59,760 --> 01:11:02,042
+01:10:51,160 --> 01:10:53,442
 nous ne pouvons pas planifier
 le développement d’Istanbul,
 
 776
-01:11:02,100 --> 01:11:04,146
+01:10:53,500 --> 01:10:55,546
 et faire face à ses effets.
 
 777
-01:11:06,080 --> 01:11:11,280
+01:10:57,480 --> 01:11:02,680
 En termes de soutenabilité, Istanbul
 utilise toute l’eau douce de la région.
 
 778
-01:11:18,000 --> 01:11:23,040
+01:11:09,400 --> 01:11:14,440
 À l’est, la ville obtient l’eau
 de villes comme Düzce et Bolu.
 
 779
-01:11:25,520 --> 01:11:32,440
+01:11:16,920 --> 01:11:23,840
 À l’ouest, l’eau vient des montagnes
 Strandzha et de la plaine d’Iğneada.
 
 780
-01:11:41,280 --> 01:11:42,600
+01:11:32,680 --> 01:11:34,000
 En Turquie,
 
 781
-01:11:43,200 --> 01:11:45,487
+01:11:34,600 --> 01:11:36,887
 le gouvernement intervient tellement
 dans la planification urbaine
 
 782
-01:11:45,745 --> 01:11:48,277
+01:11:37,145 --> 01:11:39,677
 que ça en devient insultant.
 
 783
-01:11:48,680 --> 01:11:50,316
+01:11:40,080 --> 01:11:41,716
 Comment est-ce possible
 que le conseil municipal
 
 784
-01:11:50,338 --> 01:11:52,619
+01:11:41,738 --> 01:11:44,019
 fasse 4000 modifications au plan
 de développement urbain ?
 
 785
-01:11:53,640 --> 01:11:56,800
+01:11:45,040 --> 01:11:48,200
 Par exemple, si le plan dit
 
 786
-01:11:57,200 --> 01:12:00,320
+01:11:48,600 --> 01:11:51,720
 qu’on ne peut construire que sur 4 étages,
 
 787
-01:12:00,600 --> 01:12:05,560
+01:11:52,000 --> 01:11:56,960
 sur la base de nombreuses
 considérations scientifiques,
 
 788
-01:12:06,160 --> 01:12:10,480
+01:11:57,560 --> 01:12:01,880
 un politicien peut arriver
 et rayer ça avec son stylo
 
 789
-01:12:10,760 --> 01:12:12,920
+01:12:02,160 --> 01:12:04,320
 pour écrire « 10 étages ».
 
 790
-01:12:18,080 --> 01:12:23,560
+01:12:09,480 --> 01:12:14,960
 Le principal problème, c’est le manque de
 considération pour la planification.
 
 791
-01:12:24,480 --> 01:12:27,480
+01:12:15,880 --> 01:12:18,880
 À Istanbul, et en Turquie en général,
 
 792
-01:12:27,800 --> 01:12:31,760
+01:12:19,200 --> 01:12:23,160
 les gens qui réalisent les plans
 n’y croient pas eux-même.
 
 793
-01:12:32,880 --> 01:12:37,120
+01:12:24,280 --> 01:12:28,520
 Par exemple, le plan-maître de
 la ville a été complété,
 
 794
-01:12:37,400 --> 01:12:39,840
+01:12:28,800 --> 01:12:31,240
 mais le troisième pont n’y figure pas.
 
 795
-01:12:40,120 --> 01:12:43,440
+01:12:31,520 --> 01:12:34,840
 Le tunnel entre Harem et Kumkapı non plus.
 
 796
-01:12:43,720 --> 01:12:48,040
+01:12:35,120 --> 01:12:39,440
 Ni aucun des autres tunnels en construction.
 
 797
-01:12:48,720 --> 01:12:52,480
+01:12:40,120 --> 01:12:43,880
 Aucun de ces projets ne figure sur le plan,
 
 798
-01:12:52,880 --> 01:12:55,080
+01:12:44,280 --> 01:12:46,480
 mais ils sont pourtant tous
 en cours de construction.
 
 799
-01:12:57,320 --> 01:12:59,768
+01:12:48,720 --> 01:12:51,168
 En s’éloignant des recommandations
 des aménageurs,
 
 800
-01:12:59,781 --> 01:13:02,175
+01:12:51,181 --> 01:12:53,575
 les gens font de l’argent.
 
 801
-01:13:03,360 --> 01:13:06,840
+01:12:54,760 --> 01:12:58,240
 Prenons l’exemple
 
 802
-01:13:08,120 --> 01:13:10,920
+01:12:59,520 --> 01:13:02,320
 de l’inondation d’Istanbul en 2009.
 
 803
-01:13:11,200 --> 01:13:18,760
+01:13:02,600 --> 01:13:10,160
 Lorsque les scientifiques s’alarmèrent
 des constructions en zone inondable,
 
 804
-01:13:20,320 --> 01:13:24,480
+01:13:11,720 --> 01:13:15,880
 ils furent ignorés par les politiciens
 
 805
-01:13:24,760 --> 01:13:28,160
+01:13:16,160 --> 01:13:19,560
 qui avaient la maximisation économique
 des terres comme seul objectif,
 
 806
-01:13:29,320 --> 01:13:33,000
+01:13:20,720 --> 01:13:24,400
 et les inondations emportèrent
 des maisons.
 
 807
-01:13:33,720 --> 01:13:36,760
+01:13:25,120 --> 01:13:28,160
 Nous devons nous poser
 la question suivante :
 
 808
-01:13:38,120 --> 01:13:41,600
+01:13:29,520 --> 01:13:33,000
 la démocratie devrait-elle mener
 à un tel déni de la science ?
 
 809
-01:13:43,200 --> 01:13:46,000
+01:13:34,600 --> 01:13:37,400
 Un jour, j’ai demandé à un maire :
 
 810
-01:13:46,280 --> 01:13:53,120
+01:13:37,680 --> 01:13:44,520
 « Pourriez-vous décider
 en conseil municipal
 
 811
-01:13:53,400 --> 01:13:58,280
+01:13:44,800 --> 01:13:49,680
 qu’à partir de maintenant,
 l’asthme serait soignée
 
 812
-01:13:58,920 --> 01:14:01,960
+01:13:50,320 --> 01:13:53,360
 avec un autre médicament ? »
 
 813
-01:14:02,360 --> 01:14:04,080
+01:13:53,760 --> 01:13:55,480
 « Jamais », m'a-t-il répondu.
 
 814
-01:14:04,360 --> 01:14:10,760
+01:13:55,760 --> 01:14:02,160
 « Alors pourquoi autoriser la construction
 là où la science le déconseille ? »
 
 815
-01:14:11,200 --> 01:14:14,840
+01:14:02,600 --> 01:14:06,240
 « OK, nous respectons le fait que vous
 ayez été élu démocratiquement,
 
 816
-01:14:15,120 --> 01:14:18,068
+01:14:06,520 --> 01:14:09,468
 mais vous ne pouvez pas
 utiliser la démocracie
 
 817
-01:14:18,345 --> 01:14:22,184
+01:14:09,745 --> 01:14:13,584
 contre la science et pour le profit. »
 
 818
-01:14:22,240 --> 01:14:25,480
+01:14:13,640 --> 01:14:16,880
 Nous manquons sérieusement
 
 819
-01:14:25,880 --> 01:14:30,480
+01:14:17,280 --> 01:14:21,880
 d’éthique légale et politique.
 
 820
-01:15:21,040 --> 01:15:24,440
+01:15:12,440 --> 01:15:15,840
 Je vois encore les maisons de mes voisins.
 
 821
-01:15:24,720 --> 01:15:28,200
+01:15:16,120 --> 01:15:19,600
 Elles ont été démolies,
 
 822
-01:15:28,840 --> 01:15:31,960
+01:15:20,240 --> 01:15:23,360
 mais on voit encore l’endroit
 où elles étaient.
 
 823
-01:15:32,240 --> 01:15:36,080
+01:15:23,640 --> 01:15:27,480
 Je vois ma maison et les arbres.
 
 824
-01:15:37,280 --> 01:15:40,200
+01:15:28,680 --> 01:15:31,600
 C’est comme si ça n’avait jamais été démoli.
 
 825
-01:15:49,600 --> 01:15:52,680
+01:15:41,000 --> 01:15:44,080
 AĞAOĞLU, ARCHITECTES DE LA VIE
 
 826
-01:16:04,120 --> 01:16:08,400
+01:15:55,520 --> 01:15:59,800
 J’aurais préféré ne jamais
 travailler ici. C’est dur.
 
 827
-01:16:08,680 --> 01:16:11,160
+01:16:00,080 --> 01:16:02,560
 J’y pense tout le temps.
 
 828
-01:16:12,960 --> 01:16:17,480
+01:16:04,360 --> 01:16:08,880
 Aujourd’hui, à istanbul, plus de 50 quartiers
 sont menacés de destruction.
 
 829
-01:16:17,640 --> 01:16:19,320
+01:16:09,040 --> 01:16:10,720
 OK, allons-y.
 
 830
-01:17:28,360 --> 01:17:40,360
+01:17:19,760 --> 01:17:31,760
 DERNIER CHAPITRE :
 LE QUARTIER
 
 831
-01:17:59,880 --> 01:18:03,330
+01:17:51,280 --> 01:17:54,730
 À cause de sa proximité
 avec les lignes de faille,
 
 832
-01:18:03,520 --> 01:18:05,941
+01:17:54,920 --> 01:17:57,341
 Istanbul est très vulnérable
 aux tremblements de terre.
 
 833
-01:18:06,400 --> 01:18:10,240
+01:17:57,800 --> 01:18:01,640
 D’expérience, je peux vous dire
 
 834
-01:18:11,160 --> 01:18:17,560
+01:18:02,560 --> 01:18:08,960
 que 70 % des bâtiments ici
 ne sont pas sûrs.
 
 835
-01:18:18,200 --> 01:18:22,880
+01:18:09,600 --> 01:18:14,280
 ll y a environ 3,8 millions d’immeubles
 à Istanbul aujourd’hui.
 
 836
-01:18:23,280 --> 01:18:29,840
+01:18:14,680 --> 01:18:21,240
 Si on en réhabilitait 50 %, il faudrait
 en réhabiliter 2 millions.
 
 837
-01:18:30,520 --> 01:18:35,760
+01:18:21,920 --> 01:18:27,160
 Nous devons construire des
 immeubles sûrs et esthétiques,
 
 838
-01:18:36,040 --> 01:18:38,680
+01:18:27,440 --> 01:18:30,080
 pour augmenter le standard de vie.
 
 839
-01:18:47,440 --> 01:18:54,000
+01:18:38,840 --> 01:18:45,400
 D’abord, s’ils veulent nous chasser
 d’immeubles qu’ils ont construit en 1987
 
 840
-01:18:54,280 --> 01:18:56,392
+01:18:45,680 --> 01:18:47,792
 parce qu’ils ne sont pas assez sûrs,
 dans une zone exposée
 
 841
-01:18:56,591 --> 01:18:59,480
+01:18:47,991 --> 01:18:50,880
 aux tremblements de terre
 au premier degré,
 
 842
-01:18:59,600 --> 01:19:02,040
+01:18:51,000 --> 01:18:53,440
 alors honte à l’État !
 
 843
-01:19:02,320 --> 01:19:05,233
+01:18:53,720 --> 01:18:56,633
 Pourquoi est-ce que les habitants de
 Tozkoparan, qui ont acheté leurs maisons
 
 844
-01:19:05,330 --> 01:19:08,603
+01:18:56,730 --> 01:19:00,003
 avec le fruit d’un dur travail,
 devraient payer pour ça ?
 
 845
-01:19:09,440 --> 01:19:12,411
+01:19:00,840 --> 01:19:03,811
 Ils construisent des immeubles
 au nom de l’État,
 
 846
-01:19:12,432 --> 01:19:14,953
+01:19:03,832 --> 01:19:06,353
 et 20 ans plus tard,
 il faut les démolir ?
 
 847
-01:19:15,760 --> 01:19:19,720
+01:19:07,160 --> 01:19:11,120
 Comment peut-on alors être confiant pour
 ceux qu’ils sont en train de construire ?
 
 848
-01:19:20,280 --> 01:19:24,400
+01:19:11,680 --> 01:19:15,800
 Pourquoi devrait-on leur faire confiance ?
 On a vu les images de Bezirganbahçe.
 
 849
-01:19:24,680 --> 01:19:28,160
+01:19:16,080 --> 01:19:19,560
 Les nouveaux immeubles ont des
 colonnes de métal exposées.
 
 850
-01:19:28,480 --> 01:19:30,760
+01:19:19,880 --> 01:19:22,160
 Et ils ont été construits pour la
 « transformation urbaine » eux aussi !
 
 851
-01:19:30,920 --> 01:19:33,680
+01:19:22,320 --> 01:19:25,080
 TRANSFORMATION DE TOZKOPARAN :
 URBANISER OU PROFITER ?
 
 852
-01:19:38,120 --> 01:19:41,400
+01:19:29,520 --> 01:19:32,800
 Si des améliorations doivent être faites,
 qu’on les fasse.
 
 853
-01:19:41,680 --> 01:19:45,720
+01:19:33,080 --> 01:19:37,120
 Mais avec la participation des
 habitants, sans les chasser
 
 854
-01:19:46,000 --> 01:19:48,480
+01:19:37,400 --> 01:19:39,880
 et en améliorant leur habitat existant.
 
 855
-01:20:01,400 --> 01:20:05,200
+01:19:52,800 --> 01:19:56,600
 Ils devraient éloigner leurs
 sales pattes de nos quartiers,
 
 856
-01:20:05,600 --> 01:20:08,480
+01:19:57,000 --> 01:19:59,880
 où nous vivons depuis 50 ans ;
 
 857
-01:20:08,880 --> 01:20:11,757
+01:20:00,280 --> 01:20:03,157
 où nous avons grandi, où nous
 sommes tombés amoureux,
 
 858
-01:20:11,844 --> 01:20:14,405
+01:20:03,244 --> 01:20:05,805
 où nous avons partagés nos
 douleurs et nos enterrements.
 
 859
-01:20:15,760 --> 01:20:19,000
+01:20:07,160 --> 01:20:10,400
 Je ne considère pas comme « sain »
 le fait de vivre dans un gratte-ciel.
 
 860
-01:20:19,520 --> 01:20:23,040
+01:20:10,920 --> 01:20:14,440
 L’argent ne nous intéresse pas,
 
 861
-01:20:23,440 --> 01:20:27,960
+01:20:14,840 --> 01:20:19,360
 mais nous défendrons notre droit
 au logement jusqu’au bout.
 
 862
-01:20:33,000 --> 01:20:35,840
+01:20:24,400 --> 01:20:27,240
 Dans la transformation urbaine,
 
 863
-01:20:36,120 --> 01:20:40,080
+01:20:27,520 --> 01:20:31,480
 il pourrait arriver que certains
 soient involontairement blessés.
 
 864
-01:20:40,560 --> 01:20:45,120
+01:20:31,960 --> 01:20:36,520
 Ça ne peut être mené qu’avec
 du dialogue social.
 
 865
-01:20:46,000 --> 01:20:52,040
+01:20:37,400 --> 01:20:43,440
 Ce n’est pas quelque chose qu’on peut
 réaliser par la force.
 
 866
-01:20:52,720 --> 01:20:56,080
+01:20:44,120 --> 01:20:47,480
 Nous voulons vivre et mourir ici,
 où nous sommes nés.
 
 867
-01:20:57,040 --> 01:21:02,520
+01:20:48,440 --> 01:20:53,920
 On va faire tout ce qu’on peut
 
 868
-01:21:02,880 --> 01:21:05,280
+01:20:54,280 --> 01:20:56,680
 pour protéger le quartier.
 
 869
-01:21:54,840 --> 01:21:59,000
+01:21:46,240 --> 01:21:50,400
 Prends juste les tracts et la banderole.
 
 870
-01:22:01,440 --> 01:22:05,000
+01:21:52,840 --> 01:21:56,400
 Vous pouvez ouvrir la bannière dans
 le parc juste avant qu’on arrive ?
 
 871
-01:22:06,000 --> 01:22:07,960
+01:21:57,400 --> 01:21:59,360
 Allez les enfants, on se dépêche !
 
 872
-01:22:10,640 --> 01:22:13,160
+01:22:02,040 --> 01:22:04,560
 On avait des tracts quelque part...
 
 873
-01:22:20,920 --> 01:22:23,360
+01:22:12,320 --> 01:22:14,760
 Le 20 février 2010,
 
 874
-01:22:23,640 --> 01:22:27,760
+01:22:15,040 --> 01:22:19,160
 TOKI et la municipalité de Küçükçekmece
 
 875
-01:22:28,040 --> 01:22:32,960
+01:22:19,440 --> 01:22:24,360
 nous ont invité à venir choisir
 nos appartements.
 
 876
-01:22:33,240 --> 01:22:36,760
+01:22:24,640 --> 01:22:28,160
 Alors on est voir les plans.
 
 877
-01:22:37,040 --> 01:22:42,680
+01:22:28,440 --> 01:22:34,080
 Il nous avaient dit qu’ils étaient au
 courant de notre situation,
 
 878
-01:22:43,760 --> 01:22:47,640
+01:22:35,160 --> 01:22:39,040
 et que les conditions de location
 seraient dans nos capacités.
 
 879
-01:22:48,440 --> 01:22:54,360
+01:22:39,840 --> 01:22:45,760
 Mais un mois et demi plus tard,
 on a reçu une lettre de la banque
 
 880
-01:22:54,760 --> 01:22:58,998
+01:22:46,160 --> 01:22:50,398
 qui nous demandait un acompte
 de 15 000 TL (5 500 €),
 
 881
-01:22:59,133 --> 01:23:01,610
+01:22:50,533 --> 01:22:53,010
 et des loyers mensuels entre 350 et 400 TL.
 
 882
-01:23:02,960 --> 01:23:05,920
+01:22:54,360 --> 01:22:57,320
 Ils nous ont dit :
 « Si vous pouvez payer ça,
 
 883
-01:23:06,480 --> 01:23:08,280
+01:22:57,880 --> 01:22:59,680
 vous êtes éligibles ».
 
 884
-01:23:08,680 --> 01:23:12,040
+01:23:00,080 --> 01:23:03,440
 Nos 18 familles ont vécu
 dans des tentes pendant 3 ans.
 
 885
-01:23:12,800 --> 01:23:17,000
+01:23:04,200 --> 01:23:08,400
 Est-ce qu’ils imaginent qu’on a
 gagné au loto l’an dernier ?
 
 886
-01:23:18,040 --> 01:23:22,600
+01:23:09,440 --> 01:23:14,000
 Il n’y a qu’une personne qui travaille dans
 chaque famille, et au salaire minimum.
 
 887
-01:23:24,560 --> 01:23:28,013
+01:23:15,960 --> 01:23:19,413
 Notre objectif n’est pas seulement
 de défendre nos droits à nous,
 
 888
-01:23:28,025 --> 01:23:30,003
+01:23:19,425 --> 01:23:21,403
 les 18 familles d’Ayazma,
 
 889
-01:23:30,280 --> 01:23:34,200
+01:23:21,680 --> 01:23:25,600
 mais aussi ceux de tous les locataires
 et les sans-abris
 
 890
-01:23:34,600 --> 01:23:38,040
+01:23:26,000 --> 01:23:29,440
 des autres quartiers.
 
 891
-01:23:38,840 --> 01:23:44,040
+01:23:30,240 --> 01:23:35,440
 Contre les forces qui créent des
 villes divisées et peu sûres,
 
 892
-01:23:45,000 --> 01:23:51,080
+01:23:36,400 --> 01:23:42,480
 contre l’usurpation de
 notre droit à la ville
 
 893
-01:23:51,360 --> 01:23:57,200
+01:23:42,760 --> 01:23:48,600
 et pour le droit à prendre part à la
 construction de notre ville,
 
 894
-01:23:58,480 --> 01:24:01,047
+01:23:49,880 --> 01:23:52,447
 nous déclarons que nous allons
 nous battre ensemble
 
 895
-01:24:01,139 --> 01:24:05,517
+01:23:52,539 --> 01:23:56,917
 et rester uni-e-s au-delà
 de ce qui nous sépare.
 
 896
-01:24:06,480 --> 01:24:13,920
+01:23:57,880 --> 01:24:05,320
 Est-ce qu’on va les laisser
 démolir nos maisons ? — Non !
 
 897
-01:24:18,240 --> 01:24:22,000
+01:24:09,640 --> 01:24:13,400
 Non à la transformation urbaine !
 
 898
-01:24:22,400 --> 01:24:26,520
+01:24:13,800 --> 01:24:17,920
 On gagnera en résistant !
 
 899
-01:24:26,920 --> 01:24:31,160
+01:24:18,320 --> 01:24:22,560
 On veut une vie humaine !
 
 900
-01:24:31,640 --> 01:24:35,080
+01:24:23,040 --> 01:24:26,480
 On est ici parce qu’on veut
 une ville plus humaine !
 
 901
-01:24:35,360 --> 01:24:38,800
+01:24:26,760 --> 01:24:30,200
 Nous ne laisserons pas le
 troisième pont être construit !
 
 902
-01:24:46,240 --> 01:24:47,920
+01:24:37,640 --> 01:24:39,320
 On ne vous laissera pas
 construire le troisième pont !
 
 903
-01:24:52,320 --> 01:24:55,400
+01:24:43,720 --> 01:24:46,800
 Le cinéma Emek est à nous,
 Istanbul est à nous !
 
 904
-01:24:55,680 --> 01:24:59,480
+01:24:47,080 --> 01:24:50,880
 ON NE VOUS LAISSERA PAS LE DÉMOLIR !
 
 905
-01:24:59,760 --> 01:25:01,720
+01:24:51,160 --> 01:24:53,120
 ISTANBUL, RÉSISTE !
 
 906
-01:25:03,680 --> 01:25:08,200
+01:24:55,080 --> 01:24:59,600
 UN PEUPLE UNI NE SERA JAMAIS VAINCU !
 
 907
-01:25:10,920 --> 01:25:15,000
+01:25:02,320 --> 01:25:06,400
 LE CAPITAL DEHORS ! LA GARE
 D’HAYDARPAŞA EST À NOUS !
 
 908
-01:25:28,520 --> 01:25:33,200
+01:25:19,920 --> 01:25:24,600
 LAISSEZ MA FORÊT, MON EAU
 ET MON QUARTIER TRANQUILLES !
 
 909
-01:25:53,600 --> 01:25:55,520
+01:25:45,000 --> 01:25:46,920
 NON AU PONT !
 
 910
-01:25:56,240 --> 01:25:58,120
+01:25:47,640 --> 01:25:49,520
 POUR UNE VIE HUMAINE !
 
 911
-01:26:04,640 --> 01:26:08,840
+01:25:56,040 --> 01:26:00,240
 UNI-E-S CONTRE LES DÉMOLITIONS !
 
 912
-01:26:09,240 --> 01:26:12,800
+01:26:00,640 --> 01:26:04,200
 PAS DE SOLUTION TOUT SEUL !
 
 913
-01:26:13,400 --> 01:26:17,120
+01:26:04,800 --> 01:26:08,520
 TOUS ENSEMBLE OU PERSONNE !
 
 914
-01:26:17,960 --> 01:26:19,960
+01:26:09,360 --> 01:26:11,360
 ISTANBUL RÉSISTE !
 
 915
-01:26:31,280 --> 01:26:34,320
+01:26:22,680 --> 01:26:25,720
 Maintenant,
 
 916
-01:26:34,840 --> 01:26:37,320
+01:26:26,240 --> 01:26:28,720
 ce qu’il nous reste à faire
 
 917
-01:26:37,720 --> 01:26:42,040
+01:26:29,120 --> 01:26:33,440
 c’est de protéger nos espaces de vie.
 
 918
-01:26:50,120 --> 01:26:53,920
+01:26:41,520 --> 01:26:45,320
 Oui, le niveau de revenus est important.
 
 919
-01:26:54,600 --> 01:26:59,120
+01:26:46,000 --> 01:26:50,520
 Mais ce qui est plus important, c’est
 la distribution et le partage des revenus.
 
 920
-01:27:01,120 --> 01:27:04,560
+01:26:52,520 --> 01:26:55,960
 C’est comme ça que se mesure
 le vrai développement.
 
 921
-01:27:15,895 --> 01:27:18,366
+01:27:07,295 --> 01:27:09,766
 Ce système ne fonctionne
 tout simplement pas !
 
 922
-01:27:18,489 --> 01:27:23,180
+01:27:09,889 --> 01:27:14,580
 Le coût est énorme pour l’humanité.
 
 923
-01:27:32,800 --> 01:27:35,920
+01:27:24,200 --> 01:27:27,320
 Ce n’est pas juste notre problème,
 
 924
-01:27:36,480 --> 01:27:40,560
+01:27:27,880 --> 01:27:31,960
 c’est le problème des générations à venir,
 celui de nos enfants et de nos petits-enfants.
 
 925
-01:27:40,880 --> 01:27:45,560
+01:27:32,280 --> 01:27:36,960
 Nous sommes en train de leur laisser
 des villes invivables.
 
 926
-01:28:01,280 --> 01:28:03,360
+01:27:52,680 --> 01:27:54,760
 Nous créons ces espaces.
 
 927
-01:28:04,080 --> 01:28:08,640
+01:27:55,480 --> 01:28:00,040
 Mais en retour, ces espaces nous
 créent eux-mêmes.
 
 928
-01:28:09,120 --> 01:28:12,630
+01:28:00,520 --> 01:28:04,030
 Nous devons donc créer des villes
 qui reflètent ce à quoi nous aspirons
 
 929
-01:28:12,740 --> 01:28:14,585
+01:28:04,140 --> 01:28:05,985
 en tant qu’humains.
 
 930
-01:28:40,920 --> 01:28:43,880
+01:28:32,320 --> 01:28:35,280
 Les limites écologiques ont été dépassées.
 
 931
-01:28:44,280 --> 01:28:46,800
+01:28:35,680 --> 01:28:38,200
 Les limites démographiques ont été dépassées.
 
 932
-01:28:47,080 --> 01:28:50,000
+01:28:38,480 --> 01:28:41,400
 Les limites économiques ont été dépassées.
 
 933
-01:28:51,040 --> 01:28:53,640
+01:28:42,440 --> 01:28:45,040
 Si vous me demandez
 où tout cela nous mène,
 
 934
-01:28:53,920 --> 01:28:57,000
+01:28:45,320 --> 01:28:48,400
 je citerai Doğan Kuban :
 
 935
-01:28:57,440 --> 01:28:59,000
+01:28:48,840 --> 01:28:50,400
 "au chaos".
 
 936
-01:30:14,953 --> 01:30:20,244
+01:30:06,353 --> 01:30:11,644
 Traduction française et synchronisation :
 Jérémy Garniaux - jeremy@mapper.fr
 
